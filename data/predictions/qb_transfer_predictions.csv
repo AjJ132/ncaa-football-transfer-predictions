@@ -387,7 +387,7 @@ Jayden de Laura,arizona,2023,False,False
 Jaylen Henderson,texas_a&m,2023,False,False
 Jaylen Raynor,arkansas_state,2023,False,False
 Jaylen Raynor,arkansas_state,2024,False,False
-Jeff Sims,nebraska,2023,True,True
+Jeff Sims,nebraska,2023,True,False
 "Jeff Undercuffler, Jr.",akron,2023,False,False
 Jensen Jones,air_force,2023,False,False
 Jeremiah Salem,eastern_michigan,2024,False,False
@@ -654,7 +654,7 @@ Walter Taylor,vanderbilt,2023,False,False
 Will Hammond,texas_tech,2024,False,False
 Will Howard,kansas_state,2023,True,False
 Will Howard,ohio_state,2024,False,False
-Will Rogers,mississippi_state,2023,True,False
+Will Rogers,mississippi_state,2023,True,True
 Will Rogers,washington,2024,False,False
 William Pop Watson III,virginia_tech,2023,False,False
 Xavier Arline,navy,2023,False,False

@@ -166,6 +166,9 @@ class QBEnsembleLearning:
             # Plot Precision-Recall curve
             self.plot_curve(recall, precision, pr_auc, name, 'Precision-Recall', 'Recall', 'Precision')
 
+            # Plot confusion matrix pie chart
+            self.plot_confusion_matrix_pie_chart(confusion_mat, name)
+
         # Generate feature importance plot for Random Forest
         self.plot_feature_importance()
 
@@ -200,6 +203,17 @@ class QBEnsembleLearning:
         plt.savefig(os.path.join(self.visualizations_path, 'feature_importance.png'))
         plt.close()
 
+    def plot_confusion_matrix_pie_chart(self, confusion_mat, model_name):
+        labels = ['True Negatives', 'False Positives', 'False Negatives', 'True Positives']
+        sizes = [confusion_mat[0, 0], confusion_mat[0, 1], confusion_mat[1, 0], confusion_mat[1, 1]]
+        colors = ['#66b3ff', '#ff9999', '#99ff99', '#ffcc99']
+        explode = (0.1, 0, 0, 0)  # explode the first slice (True Negatives)
+
+        plt.figure(figsize=(8, 8))
+        plt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%', shadow=True, startangle=140)
+        plt.title(f'{model_name} Confusion Matrix Pie Chart')
+        plt.savefig(os.path.join(self.visualizations_path, f'{model_name.lower().replace(" ", "_")}_confusion_matrix_pie_chart.png'))
+        plt.close()
 
     def save_predictions(self, y_pred):
         # Create a DataFrame with predictions
@@ -240,4 +254,3 @@ class QBEnsembleLearning:
         y_pred = self.evaluate_models()
         self.save_predictions(y_pred)
         self.save_model_stats()
-

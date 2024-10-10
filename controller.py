@@ -9,6 +9,8 @@ from scripts.scraping.cfb_stats.scrape_cfb_stats import ScrapeCFBStats
 from scripts.processing.ProcessCFBRoster import ProcessCFBRoster
 from scripts.processing.ProcessCFBStats import ProcessCFBStats
 
+from scripts.engineering.EngineerQBFeatures import EngineerQBFeatures
+
 from scripts.machine_learning.QBEnsembleLearning import QBEnsembleLearning
 
 
@@ -77,10 +79,17 @@ def main():
     process_cfb_stats = ProcessCFBStats(
         data_dir='data/raw/stats',
         save_dir='data/processed/stats',
-        ml_ready_dir='data/ml_ready'
+        ml_ready_dir='data/processed'
     )
 
     # process_cfb_stats.process_stats()
+
+    engineer_qb_features = EngineerQBFeatures(
+        data_path='data/processed/cfb_qb_stats.csv',
+        save_dir='data/ml_ready'
+    )
+
+    engineer_qb_features.engineer_qb_features()
 
     qb_model_training = QBEnsembleLearning(
         data_path='data/ml_ready/cfb_qb_stats.csv',
@@ -89,7 +98,7 @@ def main():
         stats_path='data/visualizations/model_stats.json'
     )
 
-    qb_model_training.run()
+    # qb_model_training.run()
 
 
 
