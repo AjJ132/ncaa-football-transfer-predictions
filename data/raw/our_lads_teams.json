@@ -1,0 +1,538 @@
+[
+    {
+        "team_name": "Army ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=army&id=90038"
+    },
+    {
+        "team_name": "Charlotte ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=charlotte&id=92936"
+    },
+    {
+        "team_name": "East Carolina ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=east-carolina&id=90452"
+    },
+    {
+        "team_name": "Florida Atlantic ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=florida-atlantic&id=90521"
+    },
+    {
+        "team_name": "Memphis ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=memphis&id=91050"
+    },
+    {
+        "team_name": "Navy ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=navy&id=91257"
+    },
+    {
+        "team_name": "North Texas ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=north-texas&id=92660"
+    },
+    {
+        "team_name": "Rice ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=rice&id=91740"
+    },
+    {
+        "team_name": "South Florida ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=south-florida&id=91855"
+    },
+    {
+        "team_name": "Temple ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=temple&id=91970"
+    },
+    {
+        "team_name": "Tulane ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=tulane&id=92131"
+    },
+    {
+        "team_name": "Tulsa ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=tulsa&id=92154"
+    },
+    {
+        "team_name": "UAB ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=uab&id=92177"
+    },
+    {
+        "team_name": "UTSA ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=utsa&id=92683"
+    },
+    {
+        "team_name": "Boston College ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=boston-college&id=90153"
+    },
+    {
+        "team_name": "California ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=california&id=90245"
+    },
+    {
+        "team_name": "Clemson ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=clemson&id=90314"
+    },
+    {
+        "team_name": "Duke ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=duke&id=90406"
+    },
+    {
+        "team_name": "Florida State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=florida-state&id=90544"
+    },
+    {
+        "team_name": "Georgia Tech ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=georgia-tech&id=90613"
+    },
+    {
+        "team_name": "Louisville ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=louisville&id=90958"
+    },
+    {
+        "team_name": "Miami ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=miami&id=91073"
+    },
+    {
+        "team_name": "North Carolina ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=north-carolina&id=91395"
+    },
+    {
+        "team_name": "North Carolina State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=nc-state&id=91280"
+    },
+    {
+        "team_name": "Pittsburgh ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=pittsburgh&id=91694"
+    },
+    {
+        "team_name": "SMU ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=smu&id=91809"
+    },
+    {
+        "team_name": "Stanford ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=stanford&id=91901"
+    },
+    {
+        "team_name": "Syracuse ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=syracuse&id=91924"
+    },
+    {
+        "team_name": "Virginia ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=virginia&id=92384"
+    },
+    {
+        "team_name": "Virginia Tech ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=virginia-tech&id=92407"
+    },
+    {
+        "team_name": "Wake Forest ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=wake-forest&id=92430"
+    },
+    {
+        "team_name": "Illinois ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=illinois&id=90705"
+    },
+    {
+        "team_name": "Indiana ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=indiana&id=90728"
+    },
+    {
+        "team_name": "Iowa ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=iowa&id=90751"
+    },
+    {
+        "team_name": "Maryland ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=maryland&id=91027"
+    },
+    {
+        "team_name": "Michigan ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=michigan&id=91119"
+    },
+    {
+        "team_name": "Michigan State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=michigan-state&id=91142"
+    },
+    {
+        "team_name": "Minnesota ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=minnesota&id=91188"
+    },
+    {
+        "team_name": "Nebraska ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=nebraska&id=91303"
+    },
+    {
+        "team_name": "Northwestern ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=northwestern&id=91464"
+    },
+    {
+        "team_name": "Ohio State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=ohio-state&id=91533"
+    },
+    {
+        "team_name": "Oregon ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=oregon&id=91625"
+    },
+    {
+        "team_name": "Penn State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=penn-state&id=91671"
+    },
+    {
+        "team_name": "Purdue ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=purdue&id=91717"
+    },
+    {
+        "team_name": "Rutgers ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=rutgers&id=91763"
+    },
+    {
+        "team_name": "UCLA ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=ucla&id=92223"
+    },
+    {
+        "team_name": "USC ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=usc&id=92269"
+    },
+    {
+        "team_name": "Washington ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=washington&id=92453"
+    },
+    {
+        "team_name": "Wisconsin ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=wisconsin&id=92545"
+    },
+    {
+        "team_name": "Arizona ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=arizona&id=89946"
+    },
+    {
+        "team_name": "Arizona State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=arizona-state&id=89969"
+    },
+    {
+        "team_name": "Baylor ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=baylor&id=90107"
+    },
+    {
+        "team_name": "BYU ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=brigham-young&id=90222"
+    },
+    {
+        "team_name": "Central Florida ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=central-florida&id=92200"
+    },
+    {
+        "team_name": "Cincinnati ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=cincinnati&id=90291"
+    },
+    {
+        "team_name": "Colorado ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=colorado&id=90337"
+    },
+    {
+        "team_name": "Houston ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=houston&id=90659"
+    },
+    {
+        "team_name": "Iowa State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=iowa-state&id=90774"
+    },
+    {
+        "team_name": "Kansas ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=kansas&id=90797"
+    },
+    {
+        "team_name": "Kansas State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=kansas-state&id=90820"
+    },
+    {
+        "team_name": "Oklahoma State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=oklahoma-state&id=91579"
+    },
+    {
+        "team_name": "TCU ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=tcu&id=91947"
+    },
+    {
+        "team_name": "Texas Tech ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=texas-tech&id=92062"
+    },
+    {
+        "team_name": "Utah ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=utah&id=92292"
+    },
+    {
+        "team_name": "West Virginia ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=west-virginia&id=92499"
+    },
+    {
+        "team_name": "Florida International ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=florida-international&id=90475"
+    },
+    {
+        "team_name": "Jacksonville State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=jacksonville-state&id=93028"
+    },
+    {
+        "team_name": "Kennesaw State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=kennesaw-state&id=93074"
+    },
+    {
+        "team_name": "Liberty ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=liberty&id=92982"
+    },
+    {
+        "team_name": "Louisiana Tech ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=louisiana-tech&id=90889"
+    },
+    {
+        "team_name": "Middle Tennessee ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=middle-tennessee&id=91165"
+    },
+    {
+        "team_name": "New Mexico State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=new-mexico-state&id=91372"
+    },
+    {
+        "team_name": "Sam Houston ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=sam-houston&id=93051"
+    },
+    {
+        "team_name": "UTEP ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=utep&id=92338"
+    },
+    {
+        "team_name": "Western Kentucky ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=wku&id=92775"
+    },
+    {
+        "team_name": "Connecticut ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=connecticut&id=90383"
+    },
+    {
+        "team_name": "Massachusetts ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=umass&id=92706"
+    },
+    {
+        "team_name": "Notre Dame ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=notre-dame&id=91487"
+    },
+    {
+        "team_name": "Akron ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=akron&id=89900"
+    },
+    {
+        "team_name": "Ball State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=ball-state&id=90084"
+    },
+    {
+        "team_name": "Bowling Green ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=bowling-green&id=90176"
+    },
+    {
+        "team_name": "Buffalo ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=buffalo&id=90199"
+    },
+    {
+        "team_name": "Central Michigan ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=central-michigan&id=90268"
+    },
+    {
+        "team_name": "Eastern Michigan ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=eastern-michigan&id=90429"
+    },
+    {
+        "team_name": "Kent State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=kent-state&id=90843"
+    },
+    {
+        "team_name": "Miami (Ohio) ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=miami-university&id=91096"
+    },
+    {
+        "team_name": "Northern Illinois ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=northern-illinois&id=91441"
+    },
+    {
+        "team_name": "Ohio ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=ohio&id=91510"
+    },
+    {
+        "team_name": "Toledo ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=toledo&id=92085"
+    },
+    {
+        "team_name": "Western Michigan ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=western-michigan&id=92522"
+    },
+    {
+        "team_name": "Air Force ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=air-force&id=89877"
+    },
+    {
+        "team_name": "Boise State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=boise-state&id=90130"
+    },
+    {
+        "team_name": "Colorado State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=colorado-state&id=90360"
+    },
+    {
+        "team_name": "Fresno State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=fresno-state&id=90567"
+    },
+    {
+        "team_name": "Hawaii ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=hawaii&id=90636"
+    },
+    {
+        "team_name": "Nevada ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=nevada&id=91326"
+    },
+    {
+        "team_name": "New Mexico ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=new-mexico&id=91349"
+    },
+    {
+        "team_name": "San Diego State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=san-diego-state&id=91786"
+    },
+    {
+        "team_name": "San Jose State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=san-jose-state&id=92729"
+    },
+    {
+        "team_name": "UNLV ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=unlv&id=92246"
+    },
+    {
+        "team_name": "Utah State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=utah state&id=92315"
+    },
+    {
+        "team_name": "Wyoming ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=wyoming&id=92568"
+    },
+    {
+        "team_name": "Oregon State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=oregon-state&id=91648"
+    },
+    {
+        "team_name": "Washington State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=washington-state&id=92476"
+    },
+    {
+        "team_name": "Alabama ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=alabama&id=89923"
+    },
+    {
+        "team_name": "Arkansas ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=arkansas&id=89992"
+    },
+    {
+        "team_name": "Auburn ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=auburn&id=90061"
+    },
+    {
+        "team_name": "Florida ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=florida&id=90498"
+    },
+    {
+        "team_name": "Georgia ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=georgia&id=90590"
+    },
+    {
+        "team_name": "Kentucky ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=kentucky&id=90866"
+    },
+    {
+        "team_name": "LSU ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=lsu&id=90981"
+    },
+    {
+        "team_name": "Mississippi ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=ole-miss&id=91602"
+    },
+    {
+        "team_name": "Mississippi State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=mississippi-state&id=91211"
+    },
+    {
+        "team_name": "Missouri ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=missouri&id=91234"
+    },
+    {
+        "team_name": "Oklahoma ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=oklahoma&id=91556"
+    },
+    {
+        "team_name": "South Carolina ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=south-carolina&id=91832"
+    },
+    {
+        "team_name": "Tennessee ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=tennessee&id=91993"
+    },
+    {
+        "team_name": "Texas ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=texas&id=92016"
+    },
+    {
+        "team_name": "Texas A&M ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=texas-am&id=92039"
+    },
+    {
+        "team_name": "Vanderbilt ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=vanderbilt&id=92361"
+    },
+    {
+        "team_name": "Appalachian State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=appalacian-state&id=92913"
+    },
+    {
+        "team_name": "Arkansas State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=arkansas-state&id=90015"
+    },
+    {
+        "team_name": "Coastal Carolina ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=coastal-carolina&id=92959"
+    },
+    {
+        "team_name": "Georgia Southern ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=georgia-southern&id=92890"
+    },
+    {
+        "team_name": "Georgia State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=georgia-state&id=92752"
+    },
+    {
+        "team_name": "James Madison ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=james-madison&id=93005"
+    },
+    {
+        "team_name": "Louisiana ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=louisiana&id=90912"
+    },
+    {
+        "team_name": "Louisiana-Monroe ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=louisiana-monroe&id=90935"
+    },
+    {
+        "team_name": "Marshall ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=marshall&id=91004"
+    },
+    {
+        "team_name": "Old Dominion ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=old-dominion&id=92867"
+    },
+    {
+        "team_name": "South Alabama ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=south-alabama&id=92798"
+    },
+    {
+        "team_name": "Southern Miss ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=southern-miss&id=91878"
+    },
+    {
+        "team_name": "Texas State ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=texas-state&id=92821"
+    },
+    {
+        "team_name": "Troy ",
+        "depth_chart_url": "https://www.ourlads.com/ncaa-football-depth-charts/depth-chart.aspx?s=troy&id=92108"
+    }
+]

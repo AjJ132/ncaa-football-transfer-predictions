@@ -1,0 +1,42 @@
+[
+	{
+		"name": "rushing",
+		"fields": [
+			"G",
+			"Att",
+			"Yards",
+			"Avg.",
+			"TD",
+			"Att/G",
+			"Yards/G"
+		]
+	},
+	{
+		"name": "passing",
+		"fields": [
+			"G",
+			"Att",
+			"Comp",
+			"Pct",
+			"Yards",
+			"Yards/Att",
+			"TD",
+			"Int",
+			"Rating",
+			"Att/G",
+			"Yards/G"
+		]
+	},
+	{
+		"name": "receiving",
+		"fields": [
+			"G",
+			"Rec.",
+			"Yards",
+			"Avg.",
+			"TD",
+			"Rec./G",
+			"Yards/G"
+		]
+	}
+]
