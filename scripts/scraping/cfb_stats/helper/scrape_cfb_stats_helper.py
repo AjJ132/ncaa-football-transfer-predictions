@@ -8,6 +8,8 @@ def handle_parse_page(page_content, stat_name):
         return parse_rushing_stats(page_content)
     elif stat_name == 'receiving':
         return parse_receiving_stats(page_content)
+    elif stat_name == 'total':
+        return parse_total_offense_stats(page_content)
     else:
         print(f"Stat name {stat_name} not found")
         return pd.DataFrame()
@@ -49,4 +51,7 @@ def parse_passing_stats(page_content):
     return parse_stats(page_content)
 
 def parse_receiving_stats(page_content):
+    return parse_stats(page_content)
+
+def parse_total_offense_stats(page_content):
     return parse_stats(page_content)

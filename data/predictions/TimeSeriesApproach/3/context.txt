@@ -1,0 +1,3 @@
+added find optimal threshold and removed the 0.5 threshold. 
+Accuracy went down and AUC stayed about the same. 
+maxtrix shows the same numbers as before as with false negatives being very high. 

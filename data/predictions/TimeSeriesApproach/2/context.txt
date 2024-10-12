@@ -1,0 +1,1 @@
+removed smote, adjusted class weights. Helps pay attention more to the minority class.

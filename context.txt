@@ -1,0 +1,55 @@
+# Quarterback Transfer Prediction Model: Objectives and Challenges
+
+## Project Objectives
+
+1. **Primary Goal**: Develop a machine learning model to predict the likelihood of college football quarterbacks transferring to another school in the upcoming season.
+
+2. **Time Series Approach**: Utilize historical data from multiple seasons to capture trends and patterns in a quarterback's career that might indicate an increased likelihood of transfer.
+
+3. **Actionable Insights**: Provide college football programs with a tool to anticipate potential quarterback transfers, allowing for better roster management and recruitment planning.
+
+4. **Performance Metrics**: Achieve a balance between precision and recall in identifying potential transfers, with a focus on minimizing false negatives (missed transfer predictions).
+
+## Current Challenges
+
+1. **Severe Class Imbalance**: 
+   - The dataset contains significantly fewer instances of transfers compared to non-transfers (76 transfers vs. 537 non-transfers in the current dataset).
+   - This imbalance is causing the model to predict the majority class (non-transfer) for all instances, resulting in zero recall for the transfer class.
+
+2. **Feature Relevance**: 
+   - Current features may not be sufficiently predictive of transfer likelihood.
+   - Need to identify and engineer features that better capture the factors influencing a quarterback's decision to transfer.
+
+3. **Time Series Complexity**: 
+   - Capturing the temporal aspects of a player's career and how they influence transfer decisions is challenging.
+   - Need to effectively represent year-over-year changes and career trajectories in our feature set.
+
+4. **Model Selection and Tuning**: 
+   - The current model (ensemble of Random Forests with bagging) is not effectively learning to distinguish between transfers and non-transfers.
+   - Need to explore alternative models and techniques that may be more suitable for this specific problem and data structure.
+
+5. **Handling Rare Events**: 
+   - Transfers can be considered rare events, which are typically challenging to predict.
+   - May need to consider approaches specific to rare event prediction or anomaly detection.
+
+6. **Performance Metric Selection**: 
+   - Standard accuracy is misleading due to class imbalance.
+   - Need to focus on metrics like ROC AUC, precision-recall curve, and F1 score, with possible emphasis on recall given the importance of not missing potential transfers.
+
+7. **Data Quality and Quantity**: 
+   - Ensuring we have comprehensive and accurate historical data for a large number of quarterbacks across multiple seasons.
+   - Potential need for more data points to improve model performance, especially for the minority class (transfers).
+
+8. **Interpretability**: 
+   - Balancing model complexity and performance with the need for interpretable results that can provide actionable insights to football programs.
+
+## Next Steps
+
+1. Revisit feature engineering process, potentially incorporating domain expertise to create more predictive features.
+2. Experiment with advanced techniques for handling class imbalance (e.g., SMOTE, adaptive synthetic sampling).
+3. Explore alternative model architectures, including gradient boosting machines and possibly deep learning approaches.
+4. Consider framing the problem as an anomaly detection task rather than binary classification.
+5. Implement cross-validation to ensure model generalization and robustness.
+6. Develop a more nuanced evaluation framework that considers the practical implications of false positives vs. false negatives in this specific context.
+
+By addressing these challenges and following these next steps, we aim to develop a more effective and reliable model for predicting quarterback transfers, providing valuable insights to college football programs.

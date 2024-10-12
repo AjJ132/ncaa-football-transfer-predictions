@@ -38,5 +38,14 @@
 			"Rec./G",
 			"Yards/G"
 		]
+	},
+	{
+		"name": "total",
+		"fields": [
+			"G",
+			"Plays",
+			"Yards/Play",
+			"Yards/G"
+		]
 	}
 ]

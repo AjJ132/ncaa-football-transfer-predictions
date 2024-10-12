@@ -229,17 +229,17 @@ Jarvis Green,FR,RB,1,2,5,2.50,0,2.00,5.00,clemson
 "Wise Segars, Jr.",JR,RB,1,1,2,2.00,0,1.00,2.00,clemson
 Tristen Rigby,JR,RB,3,1,1,1.00,0,0.33,0.33,clemson
 Tyler Brown,SO,WR,4,1,-2,-2.00,0,0.25,-0.50,clemson
-Christian Washington,SO,RB,5,60,313,5.22,4,12.00,62.60,coastal_carolina
-Ethan Vasko,SO,QB,5,49,220,4.49,2,9.80,44.00,coastal_carolina
-Braydon Bennett,SR,RB,3,25,145,5.80,5,8.33,48.33,coastal_carolina
-Darren Lloyd,FR,RB,5,17,121,7.12,0,3.40,24.20,coastal_carolina
+Christian Washington,SO,RB,6,60,313,5.22,4,10.00,52.17,coastal_carolina
+Ethan Vasko,SO,QB,6,53,258,4.87,2,8.83,43.00,coastal_carolina
+Braydon Bennett,SR,RB,4,37,190,5.14,5,9.25,47.50,coastal_carolina
+Darren Lloyd,FR,RB,6,18,122,6.78,0,3.00,20.33,coastal_carolina
 Ja'Vin Simpkins,SO,RB,2,14,93,6.64,0,7.00,46.50,coastal_carolina
-Simeon Price,JR,RB,3,23,62,2.70,0,7.67,20.67,coastal_carolina
-Tray Taylor,JR,WR,5,3,28,9.33,0,0.60,5.60,coastal_carolina
+Simeon Price,JR,RB,4,28,67,2.39,0,7.00,16.75,coastal_carolina
+Tray Taylor,JR,WR,6,4,27,6.75,0,0.67,4.50,coastal_carolina
 Matt Pack Jr.,JR,RB,1,6,16,2.67,0,6.00,16.00,coastal_carolina
-Bryson Graves,SO,WR,5,3,8,2.67,0,0.60,1.60,coastal_carolina
-Noah Kim,SR,QB,3,3,7,2.33,0,1.00,2.33,coastal_carolina
-Mack West,JR,P,5,1,-5,-5.00,0,0.20,-1.00,coastal_carolina
+Bryson Graves,SO,WR,6,3,8,2.67,0,0.50,1.33,coastal_carolina
+Noah Kim,SR,QB,4,6,-2,-0.33,0,1.50,-0.50,coastal_carolina
+Mack West,JR,P,6,1,-5,-5.00,0,0.17,-0.83,coastal_carolina
 Isaiah Augustave,SO,RB,4,24,117,4.88,0,6.00,29.25,colorado
 Micah Welch,FR,RB,4,23,113,4.91,3,5.75,28.25,colorado
 Dallan Hayden,SO,RB,3,25,85,3.40,1,8.33,28.33,colorado
@@ -438,27 +438,29 @@ Dylan Lee,FR,RB,2,11,35,3.18,1,5.50,17.50,iowa_state
 Aiden Flora,FR,RB,1,6,27,4.50,1,6.00,27.00,iowa_state
 Jaylin Noel,SR,WR,5,2,9,4.50,0,0.40,1.80,iowa_state
 Easton Miller,FR,RB,4,2,7,3.50,0,0.50,1.75,iowa_state
-Tyler Huff,SR,QB,5,63,445,7.06,5,12.60,89.00,jacksonville_state
-Tre Stewart,SR,RB,5,65,354,5.45,8,13.00,70.80,jacksonville_state
-Anwar Lewis,SR,RB,5,34,129,3.79,2,6.80,25.80,jacksonville_state
+Tyler Huff,SR,QB,6,76,503,6.62,6,12.67,83.83,jacksonville_state
+Tre Stewart,SR,RB,6,86,472,5.49,10,14.33,78.67,jacksonville_state
+Anwar Lewis,SR,RB,6,35,127,3.63,2,5.83,21.17,jacksonville_state
+Logan Smothers,SR,QB,4,13,119,9.15,1,3.25,29.75,jacksonville_state
+Andrew Paul,SO,RB,6,17,77,4.53,1,2.83,12.83,jacksonville_state
 Mike Franklin,JR,RB,4,8,55,6.88,1,2.00,13.75,jacksonville_state
-Logan Smothers,SR,QB,3,11,32,2.91,0,3.67,10.67,jacksonville_state
-Michael Pettway,JR,WR,5,2,12,6.00,0,0.40,2.40,jacksonville_state
-Samario Rudolph,SR,WR,5,1,10,10.00,0,0.20,2.00,jacksonville_state
-Andrew Paul,SO,RB,5,6,9,1.50,0,1.20,1.80,jacksonville_state
+Michael Pettway,JR,WR,6,2,12,6.00,0,0.33,2.00,jacksonville_state
+Samario Rudolph,SR,WR,6,1,10,10.00,0,0.17,1.67,jacksonville_state
+Jarod Bowie,JR,WR,6,1,5,5.00,0,0.17,0.83,jacksonville_state
 Zion Turner,SO,QB,1,1,3,3.00,0,1.00,3.00,jacksonville_state
-Cole Fuller,JR,TE,5,1,1,1.00,1,0.20,0.20,jacksonville_state
-Demarcus Lacey,JR,WR,5,1,1,1.00,0,0.20,0.20,jacksonville_state
-George Pettaway,SO,RB,5,51,298,5.84,2,10.20,59.60,james_madison
-Alonza Barnett III,SO,QB,5,56,296,5.29,4,11.20,59.20,james_madison
-Tyler Purdy,SR,RB,5,25,119,4.76,2,5.00,23.80,james_madison
-Wayne Knight,SO,RB,5,12,86,7.17,0,2.40,17.20,james_madison
-Jobi Malary,SR,RB,5,6,53,8.83,1,1.20,10.60,james_madison
-Cam Ross,SR,WR,5,2,51,25.50,0,0.40,10.20,james_madison
+Cole Fuller,JR,TE,6,1,1,1.00,1,0.17,0.17,jacksonville_state
+Demarcus Lacey,JR,WR,6,1,1,1.00,0,0.17,0.17,jacksonville_state
+George Pettaway,SO,RB,6,64,387,6.05,2,10.67,64.50,james_madison
+Alonza Barnett III,SO,QB,6,61,309,5.07,5,10.17,51.50,james_madison
+Tyler Purdy,SR,RB,6,33,155,4.70,2,5.50,25.83,james_madison
+Wayne Knight,SO,RB,6,18,129,7.17,0,3.00,21.50,james_madison
+Jobi Malary,SR,RB,6,9,63,7.00,1,1.50,10.50,james_madison
+Cam Ross,SR,WR,6,2,51,25.50,0,0.33,8.50,james_madison
 Ayo Adeyi,SR,RB,2,20,40,2.00,1,10.00,20.00,james_madison
+Jayden Mines,SO,WR,6,1,24,24.00,0,0.17,4.00,james_madison
+JC Evans,FR,QB,2,5,16,3.20,0,2.50,8.00,james_madison
 Ke'Marion Baldwin,FR,RB,1,4,13,3.25,0,4.00,13.00,james_madison
-JC Evans,FR,QB,1,1,5,5.00,0,1.00,5.00,james_madison
-Logan Kyle,JR,TE,5,1,-2,-2.00,0,0.20,-0.40,james_madison
+Logan Kyle,JR,TE,6,1,-2,-2.00,0,0.17,-0.33,james_madison
 Devin Neal,SR,RB,6,100,584,5.84,5,16.67,97.33,kansas
 Daniel Hishaw Jr.,JR,RB,5,48,310,6.46,3,9.60,62.00,kansas
 Jalon Daniels,JR,QB,6,38,123,3.24,3,6.33,20.50,kansas
@@ -540,17 +542,22 @@ Hunter Herring,JR,QB,4,6,14,2.33,1,1.50,3.50,louisiana-monroe
 Charlie Norman,SR,RB,5,3,4,1.33,0,0.60,0.80,louisiana-monroe
 Bennett Galloway,SO,RB,4,4,3,0.75,0,1.00,0.75,louisiana-monroe
 Davon Wells,SR,WR,5,1,-4,-4.00,0,0.20,-0.80,louisiana-monroe
+Omiri Wiggins,SO,RB,5,27,108,4.00,0,5.40,21.60,louisiana_tech
 Donerio Davenport,SR,RB,4,31,107,3.45,1,7.75,26.75,louisiana_tech
-Marquis Crosby,JR,RB,3,17,65,3.82,0,5.67,21.67,louisiana_tech
-Omiri Wiggins,SO,RB,4,19,59,3.11,0,4.75,14.75,louisiana_tech
-Fred Robertson,FR,RB,3,14,55,3.93,0,4.67,18.33,louisiana_tech
-Jimmy Holiday,SR,WR,4,7,30,4.29,3,1.75,7.50,louisiana_tech
+Marquis Crosby,JR,RB,4,22,106,4.82,0,5.50,26.50,louisiana_tech
+Fred Robertson,FR,RB,4,19,82,4.32,0,4.75,20.50,louisiana_tech
+Jimmy Holiday,SR,WR,5,11,70,6.36,3,2.20,14.00,louisiana_tech
+Amani Givens,JR,RB,1,6,28,4.67,0,6.00,28.00,louisiana_tech
+Dakota Williams,SO,WR,2,3,21,7.00,0,1.50,10.50,louisiana_tech
+Jay Wilkerson,SO,WR,5,1,15,15.00,0,0.20,3.00,louisiana_tech
 Blake Baker,FR,QB,2,17,11,0.65,1,8.50,5.50,louisiana_tech
-Jack Turner,JR,QB,3,11,4,0.36,0,3.67,1.33,louisiana_tech
-Marlion Jackson,SO,WR,4,2,3,1.50,0,0.50,0.75,louisiana_tech
-Dedrick Latulas,SO,WR,3,1,0,0.00,0,0.33,0.00,louisiana_tech
-Hunter Tipton,SO,TE,4,1,0,0.00,0,0.25,0.00,louisiana_tech
-Evan Bullock,FR,QB,3,6,-6,-1.00,0,2.00,-2.00,louisiana_tech
+Abdul-Fatai Ibrahim,SR,WR,5,1,7,7.00,0,0.20,1.40,louisiana_tech
+Jack Turner,JR,QB,4,13,6,0.46,0,3.25,1.50,louisiana_tech
+Solo Lewis,JR,WR,5,1,5,5.00,0,0.20,1.00,louisiana_tech
+Marlion Jackson,SO,WR,5,2,3,1.50,0,0.40,0.60,louisiana_tech
+Dedrick Latulas,SO,WR,4,1,0,0.00,0,0.25,0.00,louisiana_tech
+Hunter Tipton,SO,TE,5,1,0,0.00,0,0.20,0.00,louisiana_tech
+Evan Bullock,FR,QB,4,13,-17,-1.31,1,3.25,-4.25,louisiana_tech
 Isaac Brown,FR,RB,5,39,362,9.28,1,7.80,72.40,louisville
 Keyjuan Brown,FR,RB,5,27,160,5.93,2,5.40,32.00,louisville
 Duke Watson,FR,RB,4,13,144,11.08,2,3.25,36.00,louisville
@@ -640,14 +647,15 @@ Makhi Frazier,FR,RB,4,1,5,5.00,0,0.25,1.25,michigan_state
 Nick Marsh,FR,WR,5,2,2,1.00,0,0.40,0.40,michigan_state
 Joseph Martinez,SR,RB,5,1,1,1.00,0,0.20,0.20,michigan_state
 Tommy Schuster,SR,QB,3,4,-7,-1.75,1,1.33,-2.33,michigan_state
-Jaiden Credle,JR,RB,5,49,233,4.76,2,9.80,46.60,middle_tennessee
-Terry Wilkins,SR,RB,5,34,114,3.35,1,6.80,22.80,middle_tennessee
+Jaiden Credle,JR,RB,6,54,253,4.69,3,9.00,42.17,middle_tennessee
+Terry Wilkins,SR,RB,6,38,125,3.29,1,6.33,20.83,middle_tennessee
 Frank Peasant,SR,RB,2,10,49,4.90,2,5.00,24.50,middle_tennessee
-Jekail Middlebrook,FR,RB,2,7,12,1.71,0,3.50,6.00,middle_tennessee
+Jekail Middlebrook,FR,RB,3,12,42,3.50,0,4.00,14.00,middle_tennessee
 Roman Gagliano,FR,QB,2,2,5,2.50,0,1.00,2.50,middle_tennessee
-Xavier Williams,SR,S,3,3,4,1.33,0,1.00,1.33,middle_tennessee
-Cam'ron Lacy,FR,WR,5,1,1,1.00,0,0.20,0.20,middle_tennessee
-Nicholas Vattiato,JR,QB,5,40,-17,-0.43,0,8.00,-3.40,middle_tennessee
+Xavier Williams,SR,S,4,3,4,1.33,0,0.75,1.00,middle_tennessee
+Cam'ron Lacy,FR,WR,6,1,1,1.00,0,0.17,0.17,middle_tennessee
+Simon Wilson,JR,OL,6,1,-1,-1.00,0,0.17,-0.17,middle_tennessee
+Nicholas Vattiato,JR,QB,6,46,-17,-0.37,0,7.67,-2.83,middle_tennessee
 Darius Taylor,SO,RB,5,73,402,5.51,5,14.60,80.40,minnesota
 Marcus Major,SR,RB,6,49,205,4.18,2,8.17,34.17,minnesota
 Jaren Mangham,SR,RB,3,8,59,7.38,0,2.67,19.67,minnesota
@@ -731,14 +739,15 @@ NaQuari Rogers,JR,RB,5,37,174,4.70,4,7.40,34.80,new_mexico
 Luke Wysong,JR,WR,5,6,42,7.00,0,1.20,8.40,new_mexico
 Sol-Jay Maiava-Peters,JR,RB,4,5,35,7.00,0,1.25,8.75,new_mexico
 Isaiah Chavez,SR,QB,4,2,-13,-6.50,0,0.50,-3.25,new_mexico
-Seth McGowan,JR,RB,5,58,334,5.76,2,11.60,66.80,new_mexico_state
-Mike Washington,JR,RB,5,56,197,3.52,2,11.20,39.40,new_mexico_state
-Larenzo McMillan,JR,RB,3,3,91,30.33,1,1.00,30.33,new_mexico_state
-Santino Marucci,JR,QB,3,18,74,4.11,1,6.00,24.67,new_mexico_state
-Monte Watkins,JR,RB,5,14,52,3.71,0,2.80,10.40,new_mexico_state
-TJ Pride,FR,WR,5,4,29,7.25,0,0.80,5.80,new_mexico_state
-Parker Awad,SO,QB,3,25,7,0.28,1,8.33,2.33,new_mexico_state
-PJ Johnson III,JR,WR,5,2,3,1.50,0,0.40,0.60,new_mexico_state
+Seth McGowan,JR,RB,6,72,392,5.44,2,12.00,65.33,new_mexico_state
+Mike Washington,JR,RB,6,69,273,3.96,2,11.50,45.50,new_mexico_state
+Santino Marucci,JR,QB,4,21,95,4.52,1,5.25,23.75,new_mexico_state
+Larenzo McMillan,JR,RB,4,3,91,30.33,1,0.75,22.75,new_mexico_state
+Monte Watkins,JR,RB,6,16,66,4.13,0,2.67,11.00,new_mexico_state
+TJ Pride,FR,WR,6,5,43,8.60,0,0.83,7.17,new_mexico_state
+Parker Awad,SO,QB,4,30,28,0.93,1,7.50,7.00,new_mexico_state
+Tim Gans,JR,RB,1,3,8,2.67,0,3.00,8.00,new_mexico_state
+PJ Johnson III,JR,WR,6,2,3,1.50,0,0.33,0.50,new_mexico_state
 Deuce Hogan,SR,QB,2,4,-3,-0.75,0,2.00,-1.50,new_mexico_state
 Jordan Smith,SR,WR,4,1,-5,-5.00,0,0.25,-1.25,new_mexico_state
 Omarion Hampton,JR,RB,6,137,764,5.58,7,22.83,127.33,north_carolina
@@ -748,7 +757,7 @@ Jacolby Criswell,SR,QB,5,23,54,2.35,0,4.60,10.80,north_carolina
 Nate McCollum,SR,WR,5,4,49,12.25,1,0.80,9.80,north_carolina
 Conner Harrell,SO,QB,4,15,39,2.60,1,3.75,9.75,north_carolina
 Max Johnson,SR,QB,1,6,10,1.67,1,6.00,10.00,north_carolina
-Javarius Green,FR,WR,5,1,8,8.00,0,0.20,1.60,north_carolina
+Javarius Green,FR,WR,4,1,8,8.00,0,0.25,2.00,north_carolina
 Darwin Barlow,SR,RB,1,1,2,2.00,0,1.00,2.00,north_carolina
 Caleb Hood,SR,RB,2,4,-3,-0.75,0,2.00,-1.50,north_carolina
 Chris Culliver,SO,WR,5,1,-8,-8.00,0,0.20,-1.60,north_carolina
@@ -1062,7 +1071,7 @@ Jaylen Jenkins,JR,RB,1,1,11,11.00,0,1.00,11.00,texas_state
 RJ Martinez,JR,QB,2,3,8,2.67,0,1.50,4.00,texas_state
 Joey Hobert,SR,WR,5,3,6,2.00,0,0.60,1.20,texas_state
 Tahj Brooks,SR,RB,5,124,679,5.48,7,24.80,135.80,texas_tech
-Cameron Dickey,FR,RB,6,21,129,6.14,1,3.50,21.50,texas_tech
+Cameron Dickey,FR,RB,6,22,130,5.91,1,3.67,21.67,texas_tech
 Cameran Brown,SO,QB,6,8,83,10.38,0,1.33,13.83,texas_tech
 Cam'Ron Valdez,JR,RB,2,9,40,4.44,0,4.50,20.00,texas_tech
 J'Koby Williams,FR,RB,3,6,34,5.67,1,2.00,11.33,texas_tech
@@ -1070,7 +1079,6 @@ Jalin Conyers,SR,TE,6,5,28,5.60,1,0.83,4.67,texas_tech
 Drae McCray,SR,WR,6,1,13,13.00,0,0.17,2.17,texas_tech
 Will Hammond,FR,QB,1,2,11,5.50,0,2.00,11.00,texas_tech
 Behren Morton,JR,QB,6,18,9,0.50,1,3.00,1.50,texas_tech
-Adam Hill,FR,RB,1,1,1,1.00,0,1.00,1.00,texas_tech
 Connor Walendzak,SO,RB,5,42,175,4.17,1,8.40,35.00,toledo
 Willie Shaw III,JR,RB,4,38,148,3.89,3,9.50,37.00,toledo
 Tucker Gleason,JR,QB,5,44,144,3.27,2,8.80,28.80,toledo
@@ -1183,14 +1191,14 @@ Robert Briggs Jr.,JR,RB,1,9,88,9.78,0,9.00,88.00,utah_state
 Spencer Petras,SR,QB,3,10,10,1.00,0,3.33,3.33,utah_state
 Jalen Royals,SR,WR,5,1,3,3.00,0,0.20,0.60,utah_state
 Jacob Conover,JR,QB,1,3,-4,-1.33,0,3.00,-4.00,utah_state
-Jevon Jackson,JR,RB,5,59,233,3.95,0,11.80,46.60,utep
-Skyler Locklear,SO,QB,4,38,87,2.29,1,9.50,21.75,utep
-Ezell Jolly,FR,RB,2,17,76,4.47,1,8.50,38.00,utep
-Kam Thomas,JR,MB,5,8,25,3.13,0,1.60,5.00,utep
-Corey Wren,SR,MB,5,10,24,2.40,0,2.00,4.80,utep
-Cade McConnell,JR,QB,5,13,-1,-0.08,0,2.60,-0.20,utep
+Jevon Jackson,JR,RB,6,65,239,3.68,0,10.83,39.83,utep
+Ezell Jolly,FR,RB,3,44,195,4.43,1,14.67,65.00,utep
+Skyler Locklear,SO,QB,5,44,110,2.50,1,8.80,22.00,utep
+Kam Thomas,JR,MB,6,9,30,3.33,0,1.50,5.00,utep
+Corey Wren,SR,MB,6,10,24,2.40,0,1.67,4.00,utep
 Jaden Smith,SR,WR,4,1,-1,-1.00,0,0.25,-0.25,utep
-Shay Smith,FR,QB,2,3,-5,-1.67,0,1.50,-2.50,utep
+Cade McConnell,JR,QB,6,14,-2,-0.14,0,2.33,-0.33,utep
+Shay Smith,FR,QB,3,3,-5,-1.67,0,1.00,-1.67,utep
 "Brandon High, Jr.",FR,RB,5,28,203,7.25,2,5.60,40.60,utsa
 "Robert Henry, Jr.",SR,RB,5,40,194,4.85,1,8.00,38.80,utsa
 Kevorian Barnes,JR,RB,5,39,143,3.67,1,7.80,28.60,utsa
@@ -1264,17 +1272,17 @@ Rodney Gallagher III,SO,WR,5,4,12,3.00,0,0.80,2.40,west_virginia
 Ric'Darious Farmer,FR,WR,4,2,6,3.00,0,0.50,1.50,west_virginia
 Traylon Ray,SO,WR,5,1,2,2.00,0,0.20,0.40,west_virginia
 Diore Hubbard,FR,RB,1,1,1,1.00,0,1.00,1.00,west_virginia
-Elijah Young,SR,RB,5,63,218,3.46,2,12.60,43.60,western_kentucky
-L.T. Sanders,JR,RB,4,15,83,5.53,1,3.75,20.75,western_kentucky
-George Hart III,JR,RB,5,12,61,5.08,0,2.40,12.20,western_kentucky
-Caden Veltkamp,SO,QB,4,31,42,1.35,3,7.75,10.50,western_kentucky
+Elijah Young,SR,RB,6,79,278,3.52,2,13.17,46.33,western_kentucky
+George Hart III,JR,RB,6,15,116,7.73,0,2.50,19.33,western_kentucky
+L.T. Sanders,JR,RB,5,19,99,5.21,1,3.80,19.80,western_kentucky
+Caden Veltkamp,SO,QB,5,44,71,1.61,4,8.80,14.20,western_kentucky
+K.D. Hutchinson,SO,WR,6,3,46,15.33,0,0.50,7.67,western_kentucky
 Jalen Hampton,JR,RB,3,7,36,5.14,0,2.33,12.00,western_kentucky
+Michael Mathison,SR,WR,5,5,28,5.60,1,1.00,5.60,western_kentucky
+Easton Messer,SO,WR,6,6,22,3.67,0,1.00,3.67,western_kentucky
 TJ Finley,JR,QB,3,11,20,1.82,0,3.67,6.67,western_kentucky
-Easton Messer,SO,WR,5,5,16,3.20,0,1.00,3.20,western_kentucky
-Kisean Johnson,SR,WR,5,3,14,4.67,0,0.60,2.80,western_kentucky
-Michael Mathison,SR,WR,4,3,12,4.00,0,0.75,3.00,western_kentucky
-Bryce Childress,SR,WR,4,1,0,0.00,0,0.25,0.00,western_kentucky
-K.D. Hutchinson,SO,WR,5,1,0,0.00,0,0.20,0.00,western_kentucky
+Kisean Johnson,SR,WR,6,3,14,4.67,0,0.50,2.33,western_kentucky
+Bryce Childress,SR,WR,5,1,0,0.00,0,0.20,0.00,western_kentucky
 Jaden Nixon,JR,RB,5,68,484,7.12,6,13.60,96.80,western_michigan
 Zahir Abdus-Salaam,SR,RB,5,53,225,4.25,2,10.60,45.00,western_michigan
 Jalen Buckley,SO,RB,2,27,112,4.15,2,13.50,56.00,western_michigan

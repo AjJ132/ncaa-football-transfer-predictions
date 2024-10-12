@@ -114,6 +114,7 @@ Abdul Adams,JR,RB,1,8,19,2.38,2,8.00,19.00,syracuse,2018,abdul_adams_syracuse,Fa
 Abdul Adams,JR,RB,11,87,336,3.86,3,7.91,30.55,syracuse,2019,abdul_adams_syracuse,False
 Abdul Adams,SR,RB,11,13,56,4.31,0,1.18,5.09,syracuse,2021,abdul_adams_syracuse,False
 Abdul-Fatai Ibrahim,SR,WR,13,3,6,2.00,0,0.23,0.46,bowling_green,2023,abdul-fatai_ibrahim_bowling_green,True
+Abdul-Fatai Ibrahim,SR,WR,5,1,7,7.00,0,0.20,1.40,louisiana_tech,2024,abdul-fatai_ibrahim_louisiana_tech,False
 Abraham Alce,SO,FB,12,15,17,1.13,2,1.25,1.42,louisiana-monroe,2021,abraham_alce_louisiana-monroe,False
 Abram Smith,FR,RB,6,4,11,2.75,0,0.67,1.83,baylor,2018,abram_smith_baylor,False
 Abram Smith,SO,RB,14,8,35,4.38,1,0.57,2.50,baylor,2019,abram_smith_baylor,False
@@ -129,7 +130,6 @@ Adam Choice,JR,RB,13,67,326,4.87,6,5.15,25.08,clemson,2017,adam_choice_clemson,F
 Adam Choice,SR,RB,15,77,548,7.12,7,5.13,36.53,clemson,2018,adam_choice_clemson,False
 Adam Cofield,SR,RB,14,81,374,4.62,4,5.79,26.71,western_kentucky,2021,adam_cofield_western_kentucky,False
 Adam Dulka,SO,TE,12,1,1,1.00,0,0.08,0.08,kent_state,2018,adam_dulka_kent_state,False
-Adam Hill,FR,RB,1,1,1,1.00,0,1.00,1.00,texas_tech,2024,adam_hill_texas_tech,False
 Adam Korsak,SR,P,9,1,17,17.00,0,0.11,1.89,rutgers,2020,adam_korsak_rutgers,False
 Adam Korsak,SR,P,13,1,-8,-8.00,0,0.08,-0.62,rutgers,2021,adam_korsak_rutgers,False
 Adam Krumholz,SR,WR,3,1,-8,-8.00,0,0.33,-2.67,wisconsin,2020,adam_krumholz_wisconsin,False
@@ -337,7 +337,7 @@ Allenzae Staggers,JR,WR,13,3,39,13.00,0,0.23,3.00,southern_mississippi,2016,alle
 Allenzae Staggers,SR,WR,13,8,64,8.00,0,0.62,4.92,southern_mississippi,2017,allenzae_staggers_southern_mississippi,False
 Alonza Barnett III,FR,QB,2,4,15,3.75,0,2.00,7.50,james_madison,2022,alonza_barnett_iii_james_madison,False
 Alonza Barnett III,FR,QB,2,5,29,5.80,1,2.50,14.50,james_madison,2023,alonza_barnett_iii_james_madison,False
-Alonza Barnett III,SO,QB,5,56,296,5.29,4,11.20,59.20,james_madison,2024,alonza_barnett_iii_james_madison,False
+Alonza Barnett III,SO,QB,6,61,309,5.07,5,10.17,51.50,james_madison,2024,alonza_barnett_iii_james_madison,False
 Alonzo Moore,SR,WR,11,4,58,14.50,1,0.36,5.27,nebraska,2016,alonzo_moore_nebraska,False
 Alonzo Smith,SO,RB,13,163,709,4.35,3,12.54,54.54,miami_ohio,2016,alonzo_smith_miami_ohio,False
 Alonzo Smith,JR,RB,10,144,660,4.58,2,14.40,66.00,miami_ohio,2017,alonzo_smith_miami_ohio,False
@@ -354,6 +354,7 @@ Amad Anderson Jr.,SO,WR,5,1,8,8.00,0,0.20,1.60,purdue,2020,amad_anderson_jr._pur
 Amad Anderson Jr.,SO,WR,11,1,-9,-9.00,0,0.09,-0.82,temple,2021,amad_anderson_jr._temple,False
 Amad Anderson Jr.,JR,WR,11,4,-4,-1.00,0,0.36,-0.36,temple,2022,amad_anderson_jr._temple,False
 Amad Anderson Jr.,SR,WR,11,2,-6,-3.00,0,0.18,-0.55,temple,2023,amad_anderson_jr._temple,False
+Amani Givens,JR,RB,1,6,28,4.67,0,6.00,28.00,louisiana_tech,2024,amani_givens_louisiana_tech,False
 Amani Hooker,SO,DB,11,1,18,18.00,0,0.09,1.64,iowa,2017,amani_hooker_iowa,False
 Amare Jones,FR,RB,13,47,216,4.60,4,3.62,16.62,tulane,2018,amare_jones_tulane,False
 Amare Jones,SO,RB,13,61,371,6.08,4,4.69,28.54,tulane,2019,amare_jones_tulane,False
@@ -452,7 +453,7 @@ Andrew Parchment,FR,WR,7,2,1,0.50,0,0.29,0.14,northern_illinois,2017,andrew_parc
 Andrew Parchment,JR,WR,12,1,0,0.00,0,0.08,0.00,kansas,2019,andrew_parchment_kansas,False
 Andrew Parchment,SR,WR,8,1,10,10.00,0,0.13,1.25,kansas,2020,andrew_parchment_kansas,True
 Andrew Paul,FR,RB,7,29,129,4.45,1,4.14,18.43,georgia,2023,andrew_paul_georgia,True
-Andrew Paul,SO,RB,5,6,9,1.50,0,1.20,1.80,jacksonville_state,2024,andrew_paul_jacksonville_state,False
+Andrew Paul,SO,RB,6,17,77,4.53,1,2.83,12.83,jacksonville_state,2024,andrew_paul_jacksonville_state,False
 Andrew Peasley,FR,QB,3,7,76,10.86,0,2.33,25.33,utah_state,2018,andrew_peasley_utah_state,False
 Andrew Peasley,FR,QB,1,3,83,27.67,1,3.00,83.00,utah_state,2019,andrew_peasley_utah_state,False
 Andrew Peasley,SO,QB,5,22,195,8.86,1,4.40,39.00,utah_state,2020,andrew_peasley_utah_state,False
@@ -632,7 +633,7 @@ Antwuan Branch,FR,TB,2,2,19,9.50,0,1.00,9.50,north_carolina,2018,antwuan_branch_
 Anu Solomon,JR,QB,5,25,-52,-2.08,0,5.00,-10.40,arizona,2016,anu_solomon_arizona,True
 Anu Solomon,SR,QB,2,16,106,6.63,0,8.00,53.00,baylor,2017,anu_solomon_baylor,False
 Anwar Lewis,JR,RB,9,93,452,4.86,3,10.33,50.22,jacksonville_state,2023,anwar_lewis_jacksonville_state,False
-Anwar Lewis,SR,RB,5,34,129,3.79,2,6.80,25.80,jacksonville_state,2024,anwar_lewis_jacksonville_state,False
+Anwar Lewis,SR,RB,6,35,127,3.63,2,5.83,21.17,jacksonville_state,2024,anwar_lewis_jacksonville_state,False
 ArDarius Stewart,JR,WR,12,8,68,8.50,0,0.67,5.67,alabama,2016,ardarius_stewart_alabama,False
 Arch Manning,FR,QB,2,3,7,2.33,0,1.50,3.50,texas,2023,arch_manning_texas,False
 Arch Manning,FR,QB,4,13,82,6.31,3,3.25,20.50,texas,2024,arch_manning_texas,False
@@ -1332,7 +1333,7 @@ Braydon Bennett,FR,RB,4,6,47,7.83,1,1.50,11.75,coastal_carolina,2020,braydon_ben
 Braydon Bennett,FR,RB,13,74,636,8.59,7,5.69,48.92,coastal_carolina,2021,braydon_bennett_coastal_carolina,False
 Braydon Bennett,SO,RB,4,16,83,5.19,0,4.00,20.75,coastal_carolina,2022,braydon_bennett_coastal_carolina,False
 Braydon Bennett,JR,RB,12,91,407,4.47,5,7.58,33.92,coastal_carolina,2023,braydon_bennett_coastal_carolina,False
-Braydon Bennett,SR,RB,3,25,145,5.80,5,8.33,48.33,coastal_carolina,2024,braydon_bennett_coastal_carolina,False
+Braydon Bennett,SR,RB,4,37,190,5.14,5,9.25,47.50,coastal_carolina,2024,braydon_bennett_coastal_carolina,False
 Braydon Johnson,JR,WR,11,1,19,19.00,0,0.09,1.73,oklahoma_state,2020,braydon_johnson_oklahoma_state,False
 Braydon Johnson,SR,WR,1,1,13,13.00,0,1.00,13.00,oklahoma_state,2021,braydon_johnson_oklahoma_state,False
 Braydon Johnson,SR,WR,10,2,17,8.50,0,0.20,1.70,oklahoma_state,2022,braydon_johnson_oklahoma_state,False
@@ -1562,7 +1563,7 @@ Bryce Carpenter,JR,QB,8,4,11,2.75,0,0.50,1.38,coastal_carolina,2020,bryce_carpen
 Bryce Carpenter,SR,QB,11,54,217,4.02,3,4.91,19.73,coastal_carolina,2021,bryce_carpenter_coastal_carolina,False
 Bryce Carpenter,SR,QB,11,39,94,2.41,1,3.55,8.55,coastal_carolina,2022,bryce_carpenter_coastal_carolina,False
 Bryce Childress,SO,WR,12,1,5,5.00,0,0.08,0.42,new_mexico_state,2022,bryce_childress_new_mexico_state,False
-Bryce Childress,SR,WR,4,1,0,0.00,0,0.25,0.00,western_kentucky,2024,bryce_childress_western_kentucky,False
+Bryce Childress,SR,WR,5,1,0,0.00,0,0.20,0.00,western_kentucky,2024,bryce_childress_western_kentucky,False
 Bryce Duke,FR,RB,10,18,59,3.28,0,1.80,5.90,virginia_tech,2022,bryce_duke_virginia_tech,False
 Bryce Duke,SO,RB,12,11,69,6.27,0,0.92,5.75,virginia_tech,2023,bryce_duke_virginia_tech,True
 Bryce Duke,JR,RB,5,27,169,6.26,0,5.40,33.80,old_dominion,2024,bryce_duke_old_dominion,False
@@ -1612,7 +1613,7 @@ Bryson Donnell,FR,RB,2,16,72,4.50,0,8.00,36.00,texas_tech,2022,bryson_donnell_te
 Bryson Donnell,FR,RB,13,4,15,3.75,0,0.31,1.15,texas_tech,2023,bryson_donnell_texas_tech,True
 Bryson Donnell,SO,RB,4,15,77,5.13,0,3.75,19.25,utsa,2024,bryson_donnell_utsa,False
 Bryson Graves,FR,WR,13,4,16,4.00,0,0.31,1.23,coastal_carolina,2023,bryson_graves_coastal_carolina,False
-Bryson Graves,SO,WR,5,3,8,2.67,0,0.60,1.60,coastal_carolina,2024,bryson_graves_coastal_carolina,False
+Bryson Graves,SO,WR,6,3,8,2.67,0,0.50,1.33,coastal_carolina,2024,bryson_graves_coastal_carolina,False
 Bryson Green,SO,WR,11,1,-5,-5.00,0,0.09,-0.45,oklahoma_state,2022,bryson_green_oklahoma_state,True
 Bryson Jackson,SO,WR,13,2,10,5.00,0,0.15,0.77,north_texas,2021,bryson_jackson_north_texas,False
 Bryson Lucero,FR,QB,7,8,-5,-0.63,0,1.14,-0.71,uab,2020,bryson_lucero_uab,False
@@ -1750,7 +1751,7 @@ Cade Klubnik,FR,QB,10,42,139,3.31,2,4.20,13.90,clemson,2022,cade_klubnik_clemson
 Cade Klubnik,SO,QB,13,125,180,1.44,4,9.62,13.85,clemson,2023,cade_klubnik_clemson,False
 Cade Klubnik,JR,QB,5,28,168,6.00,4,5.60,33.60,clemson,2024,cade_klubnik_clemson,False
 Cade McConnell,SO,QB,7,31,-49,-1.58,0,4.43,-7.00,utep,2023,cade_mcconnell_utep,False
-Cade McConnell,JR,QB,5,13,-1,-0.08,0,2.60,-0.20,utep,2024,cade_mcconnell_utep,False
+Cade McConnell,JR,QB,6,14,-2,-0.14,0,2.33,-0.33,utep,2024,cade_mcconnell_utep,False
 Cade McDonald,JR,WR,13,2,8,4.00,0,0.15,0.62,miami_ohio,2023,cade_mcdonald_miami_ohio,False
 Cade McNamara,SO,QB,4,5,7,1.40,1,1.25,1.75,michigan,2020,cade_mcnamara_michigan,False
 Cade McNamara,JR,QB,14,37,26,0.70,1,2.64,1.86,michigan,2021,cade_mcnamara_michigan,False
@@ -1767,7 +1768,7 @@ Cade Yacamelli,SO,RB,5,26,192,7.38,1,5.20,38.40,wisconsin,2024,cade_yacamelli_wi
 Cade Zimmerly,FR,C,10,0,3,-,0,-,-,bowling_green,2021,cade_zimmerly_bowling_green,False
 Caden Durham,FR,RB,4,29,244,8.41,3,7.25,61.00,lsu,2024,caden_durham_lsu,False
 Caden Veltkamp,FR,QB,3,23,76,3.30,0,7.67,25.33,western_kentucky,2023,caden_veltkamp_western_kentucky,False
-Caden Veltkamp,SO,QB,4,31,42,1.35,3,7.75,10.50,western_kentucky,2024,caden_veltkamp_western_kentucky,False
+Caden Veltkamp,SO,QB,5,44,71,1.61,4,8.80,14.20,western_kentucky,2024,caden_veltkamp_western_kentucky,False
 Caden Williams,FR,RB,1,2,9,4.50,0,2.00,9.00,liberty,2024,caden_williams_liberty,False
 Caiden Norman,FR,QB,2,3,-5,-1.67,0,1.50,-2.50,east_carolina,2018,caiden_norman_east_carolina,False
 Cale Hellums,SO,QB,2,3,2,0.67,0,1.50,1.00,army,2024,cale_hellums_army,False
@@ -1881,7 +1882,7 @@ Cam Porter,SR,RB,4,50,249,4.98,4,12.50,62.25,northwestern,2024,cam_porter_northw
 Cam Ransom,FR,QB,9,38,112,2.95,0,4.22,12.44,georgia_southern,2021,cam_ransom_georgia_southern,False
 Cam Roberson,JR,WR,12,116,355,3.06,2,9.67,29.58,massachusetts,2019,cam_roberson_massachusetts,False
 Cam Roberson,SR,WR,4,11,21,1.91,0,2.75,5.25,massachusetts,2020,cam_roberson_massachusetts,False
-Cam Ross,SR,WR,5,2,51,25.50,0,0.40,10.20,james_madison,2024,cam_ross_james_madison,False
+Cam Ross,SR,WR,6,2,51,25.50,0,0.33,8.50,james_madison,2024,cam_ross_james_madison,False
 Cam Skattebo,JR,RB,12,164,783,4.77,9,13.67,65.25,arizona_state,2023,cam_skattebo_arizona_state,False
 Cam Skattebo,SR,RB,5,111,615,5.54,6,22.20,123.00,arizona_state,2024,cam_skattebo_arizona_state,False
 Cam Sutton,SR,TE,12,2,34,17.00,0,0.17,2.83,fresno_state,2019,cam_sutton_fresno_state,False
@@ -1902,7 +1903,7 @@ Cam'Ron Valdez,FR,RB,4,18,169,9.39,0,4.50,42.25,texas_tech,2022,cam'ron_valdez_t
 Cam'Ron Valdez,SO,RB,10,52,286,5.50,1,5.20,28.60,texas_tech,2023,cam'ron_valdez_texas_tech,False
 Cam'Ron Valdez,JR,RB,2,9,40,4.44,0,4.50,20.00,texas_tech,2024,cam'ron_valdez_texas_tech,False
 Cam'ron Barfield,SO,RB,3,11,14,1.27,0,3.67,4.67,boston_college,2023,cam'ron_barfield_boston_college,False
-Cam'ron Lacy,FR,WR,5,1,1,1.00,0,0.20,0.20,middle_tennessee,2024,cam'ron_lacy_middle_tennessee,False
+Cam'ron Lacy,FR,WR,6,1,1,1.00,0,0.17,0.17,middle_tennessee,2024,cam'ron_lacy_middle_tennessee,False
 Camar Wheaton,FR,RB,10,62,322,5.19,2,6.20,32.20,smu,2022,camar_wheaton_smu,False
 Camar Wheaton,SO,RB,10,83,410,4.94,5,8.30,41.00,smu,2023,camar_wheaton_smu,False
 Camdan McWright,FR,RB,1,3,6,2.00,0,3.00,6.00,san_jose_state,2022,camdan_mcwright_san_jose_state,False
@@ -1926,7 +1927,7 @@ Cameron Davis,FR,TB,12,85,308,3.62,2,7.08,25.67,washington,2021,cameron_davis_wa
 Cameron Davis,SO,RB,11,107,522,4.88,13,9.73,47.45,washington,2022,cameron_davis_washington,False
 Cameron Davis,SR,RB,6,36,173,4.81,0,6.00,28.83,washington,2024,cameron_davis_washington,False
 Cameron Dicker,SR,K,12,1,2,2.00,0,0.08,0.17,texas,2021,cameron_dicker_texas,False
-Cameron Dickey,FR,RB,6,21,129,6.14,1,3.50,21.50,texas_tech,2024,cameron_dickey_texas_tech,False
+Cameron Dickey,FR,RB,6,22,130,5.91,1,3.67,21.67,texas_tech,2024,cameron_dickey_texas_tech,False
 Cameron Dollar,FR,WR,11,1,-2,-2.00,0,0.09,-0.18,charlotte,2018,cameron_dollar_charlotte,False
 Cameron Dollar,SO,WR,13,1,-5,-5.00,0,0.08,-0.38,charlotte,2019,cameron_dollar_charlotte,False
 Cameron Echols-Luper,SR,WR,10,2,6,3.00,0,0.20,0.60,western_kentucky,2017,cameron_echols-luper_western_kentucky,False
@@ -2513,7 +2514,7 @@ Christian Veilleux,JR,QB,4,8,1,0.13,1,2.00,0.25,georgia_state,2024,christian_vei
 Christian Wallace,SO,RB,3,2,9,4.50,0,0.67,3.00,oregon_state,2018,christian_wallace_oregon_state,False
 Christian Washington,FR,RB,10,73,310,4.25,0,7.30,31.00,new_mexico,2022,christian_washington_new_mexico,False
 Christian Washington,SO,RB,2,12,11,0.92,0,6.00,5.50,new_mexico,2023,christian_washington_new_mexico,True
-Christian Washington,SO,RB,5,60,313,5.22,4,12.00,62.60,coastal_carolina,2024,christian_washington_coastal_carolina,False
+Christian Washington,SO,RB,6,60,313,5.22,4,10.00,52.17,coastal_carolina,2024,christian_washington_coastal_carolina,False
 Christian Wells,SO,WR,8,1,4,4.00,0,0.13,0.50,appalachian_state,2022,christian_wells_appalachian_state,True
 Christian Wells,JR,WR,11,2,-4,-2.00,0,0.18,-0.36,massachusetts,2023,christian_wells_massachusetts,False
 Christian Wilkins,SO,DL,15,1,10,10.00,0,0.07,0.67,clemson,2016,christian_wilkins_clemson,False
@@ -2598,7 +2599,7 @@ Cole Fagan,JR,FB,12,185,997,5.39,7,15.42,83.08,air_force,2018,cole_fagan_air_for
 Cole Freeman,SO,QB,3,18,66,3.67,0,6.00,22.00,northwestern,2022,cole_freeman_northwestern,False
 Cole Freytag,SR,WR,12,1,4,4.00,0,0.08,0.33,utep,2016,cole_freytag_utep,False
 Cole Fuller,SO,TE,12,1,1,1.00,1,0.08,0.08,jacksonville_state,2023,cole_fuller_jacksonville_state,False
-Cole Fuller,JR,TE,5,1,1,1.00,1,0.20,0.20,jacksonville_state,2024,cole_fuller_jacksonville_state,False
+Cole Fuller,JR,TE,6,1,1,1.00,1,0.17,0.17,jacksonville_state,2024,cole_fuller_jacksonville_state,False
 Cole Garvin,SO,QB,6,18,13,0.72,0,3.00,2.17,south_alabama,2016,cole_garvin_south_alabama,False
 Cole Garvin,JR,QB,8,34,-29,-0.85,2,4.25,-3.63,south_alabama,2017,cole_garvin_south_alabama,False
 Cole Garvin,SR,QB,5,30,67,2.23,0,6.00,13.40,south_alabama,2018,cole_garvin_south_alabama,False
@@ -2780,7 +2781,7 @@ Corey Taylor II,SR,RB,8,105,516,4.91,4,13.13,64.50,tulsa,2020,corey_taylor_ii_tu
 Corey Willis,JR,WR,13,2,4,2.00,0,0.15,0.31,central_michigan,2016,corey_willis_central_michigan,False
 Corey Wren,JR,RB,7,6,34,5.67,0,0.86,4.86,tcu,2022,corey_wren_tcu,False
 Corey Wren,JR,RB,12,9,27,3.00,0,0.75,2.25,tcu,2023,corey_wren_tcu,True
-Corey Wren,SR,MB,5,10,24,2.40,0,2.00,4.80,utep,2024,corey_wren_utep,False
+Corey Wren,SR,MB,6,10,24,2.40,0,1.67,4.00,utep,2024,corey_wren_utep,False
 Cornelious Brown,FR,QB,4,4,15,3.75,0,1.00,3.75,georgia_state,2019,cornelious_brown_georgia_state,False
 Cornelious Brown IV,FR,QB,10,98,301,3.07,7,9.80,30.10,georgia_state,2020,cornelious_brown_iv_georgia_state,False
 Cornelious Brown IV,SO,QB,5,30,49,1.63,2,6.00,9.80,georgia_state,2021,cornelious_brown_iv_georgia_state,False
@@ -3007,6 +3008,7 @@ Dakereon Joyner,SR,RB,10,50,120,2.40,5,5.00,12.00,south_carolina,2023,dakereon_j
 Dakota Prukop,,QB,6,54,171,3.17,2,9.00,28.50,oregon,2016,dakota_prukop_oregon,False
 Dakota Torres,JR,TE,11,1,3,3.00,0,0.09,0.27,hawai'i,2017,dakota_torres_hawai'i,False
 Dakota Williams,FR,WR,11,8,11,1.38,1,0.73,1.00,louisiana_tech,2023,dakota_williams_louisiana_tech,False
+Dakota Williams,SO,WR,2,3,21,7.00,0,1.50,10.50,louisiana_tech,2024,dakota_williams_louisiana_tech,False
 Dakwa Nichols,JR,RB,11,19,98,5.16,1,1.73,8.91,north_carolina_state,2016,dakwa_nichols_north_carolina_state,False
 Dakwa Nichols,SR,RB,5,8,37,4.63,1,1.60,7.40,north_carolina_state,2017,dakwa_nichols_north_carolina_state,False
 Dalen Cobb,SO,WR,12,7,51,7.29,0,0.58,4.25,georgia_southern,2023,dalen_cobb_georgia_southern,False
@@ -3298,7 +3300,7 @@ Darren Grainger,JR,QB,13,134,646,4.82,3,10.31,49.69,georgia_state,2021,darren_gr
 Darren Grainger,SR,QB,12,164,742,4.52,6,13.67,61.83,georgia_state,2022,darren_grainger_georgia_state,False
 Darren Grainger,SR,QB,13,159,736,4.63,10,12.23,56.62,georgia_state,2023,darren_grainger_georgia_state,False
 Darren Lloyd,FR,RB,1,2,6,3.00,0,2.00,6.00,coastal_carolina,2023,darren_lloyd_coastal_carolina,False
-Darren Lloyd,FR,RB,5,17,121,7.12,0,3.40,24.20,coastal_carolina,2024,darren_lloyd_coastal_carolina,False
+Darren Lloyd,FR,RB,6,18,122,6.78,0,3.00,20.33,coastal_carolina,2024,darren_lloyd_coastal_carolina,False
 Darren Woods Jr.,FR,WR,6,3,48,16.00,0,0.50,8.00,unlv,2016,darren_woods_jr._unlv,False
 Darren Woods Jr.,SO,WR,12,3,30,10.00,0,0.25,2.50,unlv,2017,darren_woods_jr._unlv,False
 Darrian Felix,FR,RB,9,30,182,6.07,1,3.33,20.22,oregon,2017,darrian_felix_oregon,False
@@ -3560,7 +3562,7 @@ Deddrick Thomas,SO,WR,13,2,8,4.00,0,0.15,0.62,mississippi_state,2017,deddrick_th
 Deddrick Thomas,SR,WR,13,1,5,5.00,0,0.08,0.38,mississippi_state,2019,deddrick_thomas_mississippi_state,False
 Dede Westbrook,SR,WR,13,10,101,10.10,0,0.77,7.77,oklahoma,2016,dede_westbrook_oklahoma,False
 Dedrick Latulas,FR,WR,10,3,11,3.67,0,0.30,1.10,louisiana_tech,2023,dedrick_latulas_louisiana_tech,False
-Dedrick Latulas,SO,WR,3,1,0,0.00,0,0.33,0.00,louisiana_tech,2024,dedrick_latulas_louisiana_tech,False
+Dedrick Latulas,SO,WR,4,1,0,0.00,0,0.25,0.00,louisiana_tech,2024,dedrick_latulas_louisiana_tech,False
 Dedrick Mills,FR,BB,9,152,771,5.07,12,16.89,85.67,georgia_tech,2016,dedrick_mills_georgia_tech,True
 Dedrick Mills,JR,RB,12,143,745,5.21,10,11.92,62.08,nebraska,2019,dedrick_mills_nebraska,False
 Dedrick Mills,SR,RB,6,84,396,4.71,3,14.00,66.00,nebraska,2020,dedrick_mills_nebraska,False
@@ -3626,7 +3628,7 @@ Demarcus Jones,SR,WR,11,1,5,5.00,0,0.09,0.45,southern_mississippi,2022,demarcus_
 Demarcus Kirk,FR,RB,10,36,104,2.89,1,3.60,10.40,georgia_state,2016,demarcus_kirk_georgia_state,False
 Demarcus Kirk,JR,RB,11,25,145,5.80,2,2.27,13.18,georgia_state,2017,demarcus_kirk_georgia_state,False
 Demarcus Kirk,SR,RB,12,26,141,5.42,2,2.17,11.75,georgia_state,2018,demarcus_kirk_georgia_state,False
-Demarcus Lacey,JR,WR,5,1,1,1.00,0,0.20,0.20,jacksonville_state,2024,demarcus_lacey_jacksonville_state,False
+Demarcus Lacey,JR,WR,6,1,1,1.00,0,0.17,0.17,jacksonville_state,2024,demarcus_lacey_jacksonville_state,False
 Demarcus Townsend,FR,RB,12,1,1,1.00,0,0.08,0.08,florida_international,2019,demarcus_townsend_florida_international,False
 Demari Simpkins,SO,WR,13,4,-16,-4.00,0,0.31,-1.23,utah,2017,demari_simpkins_utah,False
 Demari Simpkins,SR,WR,14,8,43,5.38,1,0.57,3.07,utah,2019,demari_simpkins_utah,False
@@ -4334,7 +4336,7 @@ Earnest Crownover,SR,RB,13,4,12,3.00,0,0.31,0.92,texas_a&m,2023,earnest_crownove
 Earnest Patterson,JR,WR,9,1,0,0.00,0,0.11,0.00,louisiana-lafayette,2017,earnest_patterson_louisiana-lafayette,False
 Earnest Patterson,SR,WR,14,2,20,10.00,0,0.14,1.43,louisiana-lafayette,2018,earnest_patterson_louisiana-lafayette,False
 Easton Messer,FR,WR,13,2,16,8.00,0,0.15,1.23,western_kentucky,2023,easton_messer_western_kentucky,False
-Easton Messer,SO,WR,5,5,16,3.20,0,1.00,3.20,western_kentucky,2024,easton_messer_western_kentucky,False
+Easton Messer,SO,WR,6,6,22,3.67,0,1.00,3.67,western_kentucky,2024,easton_messer_western_kentucky,False
 Easton Miller,FR,RB,4,2,7,3.50,0,0.50,1.75,iowa_state,2024,easton_miller_iowa_state,False
 Ed Oliver,SO,DT,12,1,1,1.00,1,0.08,0.08,houston,2017,ed_oliver_houston,False
 Eddie Battle,SR,RB,1,2,32,16.00,0,2.00,32.00,florida,2022,eddie_battle_florida,False
@@ -4442,7 +4444,7 @@ Elijah Young,FR,RB,7,10,78,7.80,0,1.43,11.14,missouri,2020,elijah_young_missouri
 Elijah Young,SO,RB,12,37,162,4.38,1,3.08,13.50,missouri,2021,elijah_young_missouri,False
 Elijah Young,JR,RB,9,19,93,4.89,0,2.11,10.33,missouri,2022,elijah_young_missouri,True
 Elijah Young,JR,RB,13,104,474,4.56,3,8.00,36.46,western_kentucky,2023,elijah_young_western_kentucky,False
-Elijah Young,SR,RB,5,63,218,3.46,2,12.60,43.60,western_kentucky,2024,elijah_young_western_kentucky,False
+Elijah Young,SR,RB,6,79,278,3.52,2,13.17,46.33,western_kentucky,2024,elijah_young_western_kentucky,False
 Elijhah Badger,FR,WR,11,3,37,12.33,2,0.27,3.36,arizona_state,2021,elijhah_badger_arizona_state,False
 Elijhah Badger,SO,WR,12,4,23,5.75,0,0.33,1.92,arizona_state,2022,elijhah_badger_arizona_state,False
 Elijhah Badger,JR,WR,11,11,51,4.64,1,1.00,4.64,arizona_state,2023,elijhah_badger_arizona_state,True
@@ -4566,7 +4568,7 @@ Ethan Payne,SR,RB,5,19,70,3.68,2,3.80,14.00,marshall,2024,ethan_payne_marshall,F
 Ethan Rhodes,FR,QB,1,1,3,3.00,0,1.00,3.00,north_carolina_state,2023,ethan_rhodes_north_carolina_state,False
 Ethan Vasko,FR,QB,1,2,6,3.00,0,2.00,6.00,kansas,2022,ethan_vasko_kansas,True
 Ethan Vasko,FR,QB,8,63,368,5.84,2,7.88,46.00,coastal_carolina,2023,ethan_vasko_coastal_carolina,False
-Ethan Vasko,SO,QB,5,49,220,4.49,2,9.80,44.00,coastal_carolina,2024,ethan_vasko_coastal_carolina,False
+Ethan Vasko,SO,QB,6,53,258,4.87,2,8.83,43.00,coastal_carolina,2024,ethan_vasko_coastal_carolina,False
 Ethan Wood,SR,K,14,1,-20,-20.00,0,0.07,-1.43,wyoming,2016,ethan_wood_wyoming,False
 Ethan Wright,SO,RB,13,29,153,5.28,3,2.23,11.77,cincinnati,2021,ethan_wright_cincinnati,False
 Ethan Wright,JR,RB,8,8,43,5.38,0,1.00,5.38,cincinnati,2022,ethan_wright_cincinnati,False
@@ -4578,7 +4580,7 @@ Eugene Wilson III,FR,WR,10,6,55,9.17,0,0.60,5.50,florida,2023,eugene_wilson_iii_
 Evan Austrie,JR,DB,11,1,36,36.00,0,0.09,3.27,unlv,2018,evan_austrie_unlv,False
 Evan Berry,JR,DB,9,1,6,6.00,0,0.11,0.67,tennessee,2016,evan_berry_tennessee,False
 Evan Bullock,FR,QB,1,1,-1,-1.00,0,1.00,-1.00,louisiana_tech,2023,evan_bullock_louisiana_tech,False
-Evan Bullock,FR,QB,3,6,-6,-1.00,0,2.00,-2.00,louisiana_tech,2024,evan_bullock_louisiana_tech,False
+Evan Bullock,FR,QB,4,13,-17,-1.31,1,3.25,-4.25,louisiana_tech,2024,evan_bullock_louisiana_tech,False
 Evan Conley,FR,QB,7,30,88,2.93,1,4.29,12.57,louisville,2019,evan_conley_louisville,False
 Evan Conley,SO,QB,3,1,-10,-10.00,0,0.33,-3.33,louisville,2020,evan_conley_louisville,False
 Evan Conley,SO,QB,5,3,26,8.67,0,0.60,5.20,louisville,2021,evan_conley_louisville,False
@@ -4618,7 +4620,7 @@ Evan Stewart,SO,WR,8,1,-3,-3.00,0,0.13,-0.38,texas_a&m,2023,evan_stewart_texas_a
 Evan Svoboda,SO,QB,10,25,80,3.20,2,2.50,8.00,wyoming,2023,evan_svoboda_wyoming,False
 Evan Svoboda,JR,QB,5,51,131,2.57,4,10.20,26.20,wyoming,2024,evan_svoboda_wyoming,False
 Ezell Jolly,FR,RB,4,15,53,3.53,0,3.75,13.25,utep,2023,ezell_jolly_utep,False
-Ezell Jolly,FR,RB,2,17,76,4.47,1,8.50,38.00,utep,2024,ezell_jolly_utep,False
+Ezell Jolly,FR,RB,3,44,195,4.43,1,14.67,65.00,utep,2024,ezell_jolly_utep,False
 Ezra Cleveland,JR,OL,13,1,3,3.00,0,0.08,0.23,boise_state,2019,ezra_cleveland_boise_state,False
 Ezra Saffold,JR,WR,10,4,18,4.50,0,0.40,1.80,northern_illinois,2016,ezra_saffold_northern_illinois,False
 Fabian Johnson,SR,RB,13,31,229,7.39,4,2.38,17.62,western_michigan,2016,fabian_johnson_western_michigan,False
@@ -4678,7 +4680,7 @@ Fred Orr,FR,RB,3,7,32,4.57,0,2.33,10.67,tennessee,2019,fred_orr_tennessee,False
 Fred Payton,FR,QB,7,46,142,3.09,0,6.57,20.29,coastal_carolina,2018,fred_payton_coastal_carolina,False
 Fred Payton,SO,QB,10,54,181,3.35,2,5.40,18.10,coastal_carolina,2019,fred_payton_coastal_carolina,False
 Fred Payton,JR,QB,9,15,82,5.47,0,1.67,9.11,coastal_carolina,2020,fred_payton_coastal_carolina,False
-Fred Robertson,FR,RB,3,14,55,3.93,0,4.67,18.33,louisiana_tech,2024,fred_robertson_louisiana_tech,False
+Fred Robertson,FR,RB,4,19,82,4.32,0,4.75,20.50,louisiana_tech,2024,fred_robertson_louisiana_tech,False
 Fred Ross,SR,WR,13,2,39,19.50,0,0.15,3.00,mississippi_state,2016,fred_ross_mississippi_state,False
 Fred Trevillion,JR,WR,13,3,11,3.67,0,0.23,0.85,san_diego_state,2017,fred_trevillion_san_diego_state,False
 Fred Trevillion,SR,WR,13,4,-3,-0.75,0,0.31,-0.23,san_diego_state,2018,fred_trevillion_san_diego_state,False
@@ -4829,7 +4831,7 @@ George Georgopoulos,SR,P,13,1,-11,-11.00,0,0.08,-0.85,mississippi_state,2022,geo
 George Hart,SO,RB,10,3,6,2.00,0,0.30,0.60,arizona_state,2022,george_hart_arizona_state,False
 George Hart III,FR,RB,12,10,19,1.90,0,0.83,1.58,arizona_state,2021,george_hart_iii_arizona_state,False
 George Hart III,JR,RB,3,7,11,1.57,0,2.33,3.67,arizona_state,2023,george_hart_iii_arizona_state,True
-George Hart III,JR,RB,5,12,61,5.08,0,2.40,12.20,western_kentucky,2024,george_hart_iii_western_kentucky,False
+George Hart III,JR,RB,6,15,116,7.73,0,2.50,19.33,western_kentucky,2024,george_hart_iii_western_kentucky,False
 George Holani,FR,RB,14,192,1014,5.28,7,13.71,72.43,boise_state,2019,george_holani_boise_state,False
 George Holani,SO,RB,4,19,108,5.68,1,4.75,27.00,boise_state,2020,george_holani_boise_state,False
 George Holani,SO,RB,9,119,569,4.78,1,13.22,63.22,boise_state,2021,george_holani_boise_state,False
@@ -4840,7 +4842,7 @@ George Morris,SR,RB,7,3,8,2.67,0,0.43,1.14,syracuse,2016,george_morris_syracuse,
 George Payne,JR,RB,13,103,496,4.82,2,7.92,38.15,southern_mississippi,2016,george_payne_southern_mississippi,False
 George Pearson,FR,QB,1,5,-21,-4.20,0,5.00,-21.00,central_michigan,2018,george_pearson_central_michigan,False
 George Pettaway,FR,RB,11,20,93,4.65,2,1.82,8.45,north_carolina,2022,george_pettaway_north_carolina,False
-George Pettaway,SO,RB,5,51,298,5.84,2,10.20,59.60,james_madison,2024,george_pettaway_james_madison,False
+George Pettaway,SO,RB,6,64,387,6.05,2,10.67,64.50,james_madison,2024,george_pettaway_james_madison,False
 Gerald Green,FR,RB,4,21,106,5.05,0,5.25,26.50,georgia_southern,2019,gerald_green_georgia_southern,False
 Gerald Green,FR,RB,8,71,444,6.25,2,8.88,55.50,georgia_southern,2020,gerald_green_georgia_southern,False
 Gerald Green,SO,RB,11,75,423,5.64,5,6.82,38.45,georgia_southern,2021,gerald_green_georgia_southern,False
@@ -5191,7 +5193,7 @@ Hunter Rison,FR,WR,12,3,11,3.67,0,0.25,0.92,michigan_state,2017,hunter_rison_mic
 Hunter Rogers,SO,LS,13,1,5,5.00,0,0.08,0.38,south_carolina,2022,hunter_rogers_south_carolina,False
 Hunter Smith,FR,RB,12,2,9,4.50,0,0.17,0.75,louisiana-monroe,2022,hunter_smith_louisiana-monroe,False
 Hunter Smith,SO,RB,12,94,507,5.39,3,7.83,42.25,louisiana-monroe,2023,hunter_smith_louisiana-monroe,False
-Hunter Tipton,SO,TE,4,1,0,0.00,0,0.25,0.00,louisiana_tech,2024,hunter_tipton_louisiana_tech,False
+Hunter Tipton,SO,TE,5,1,0,0.00,0,0.20,0.00,louisiana_tech,2024,hunter_tipton_louisiana_tech,False
 Hunter Watson,JR,QB,6,84,370,4.40,4,14.00,61.67,sam_houston_state,2024,hunter_watson_sam_houston_state,False
 Hussein Howe,FR,RB,12,3,7,2.33,0,0.25,0.58,east_carolina,2016,hussein_howe_east_carolina,False
 Hussein Howe,SO,RB,12,96,419,4.36,3,8.00,34.92,east_carolina,2017,hussein_howe_east_carolina,False
@@ -5456,7 +5458,7 @@ J.T. Shrout,SO,QB,4,8,4,0.50,0,2.00,1.00,tennessee,2020,j.t._shrout_tennessee,Tr
 J.T. Shrout,SO,QB,9,30,-15,-0.50,1,3.33,-1.67,colorado,2022,j.t._shrout_colorado,True
 J.T. Shrout,SR,QB,2,4,-12,-3.00,0,2.00,-6.00,arkansas_state,2023,j.t._shrout_arkansas_state,False
 JB Mitchell III,JR,WR,12,1,1,1.00,0,0.08,0.08,eastern_michigan,2023,jb_mitchell_iii_eastern_michigan,False
-JC Evans,FR,QB,1,1,5,5.00,0,1.00,5.00,james_madison,2024,jc_evans_james_madison,False
+JC Evans,FR,QB,2,5,16,3.20,0,2.50,8.00,james_madison,2024,jc_evans_james_madison,False
 JC French,FR,QB,10,14,48,3.43,0,1.40,4.80,georgia_southern,2023,jc_french_georgia_southern,False
 JC French,SO,QB,5,46,82,1.78,1,9.20,16.40,georgia_southern,2024,jc_french_georgia_southern,False
 JD Head,FR,QB,2,2,-14,-7.00,0,1.00,-7.00,louisiana_tech,2020,jd_head_louisiana_tech,False
@@ -5627,7 +5629,7 @@ Jack Stonehouse,JR,P,5,1,-13,-13.00,0,0.20,-2.60,syracuse,2024,jack_stonehouse_s
 Jack Sullivan,SR,DE,14,1,5,5.00,0,0.07,0.36,purdue,2022,jack_sullivan_purdue,False
 Jack Turner,SO,QB,3,7,30,4.29,0,2.33,10.00,louisiana_tech,2022,jack_turner_louisiana_tech,False
 Jack Turner,SO,QB,8,29,63,2.17,2,3.63,7.88,louisiana_tech,2023,jack_turner_louisiana_tech,False
-Jack Turner,JR,QB,3,11,4,0.36,0,3.67,1.33,louisiana_tech,2024,jack_turner_louisiana_tech,False
+Jack Turner,JR,QB,4,13,6,0.46,0,3.25,1.50,louisiana_tech,2024,jack_turner_louisiana_tech,False
 Jack Tuttle,FR,QB,5,9,20,2.22,0,1.80,4.00,indiana,2019,jack_tuttle_indiana,False
 Jack Tuttle,SO,QB,3,15,37,2.47,0,5.00,12.33,indiana,2020,jack_tuttle_indiana,False
 Jack Tuttle,JR,QB,7,16,14,0.88,0,2.29,2.00,indiana,2021,jack_tuttle_indiana,False
@@ -5855,7 +5857,7 @@ Jaiave Magalei,SO,QB,6,2,-2,-1.00,0,0.33,-0.33,louisiana-lafayette,2019,jaiave_m
 Jaiave Magalei,JR,QB,1,1,-12,-12.00,0,1.00,-12.00,louisiana-lafayette,2020,jaiave_magalei_louisiana-lafayette,False
 Jaiden Credle,FR,RB,7,72,288,4.00,1,10.29,41.14,northern_illinois,2022,jaiden_credle_northern_illinois,True
 Jaiden Credle,SO,RB,12,90,427,4.74,2,7.50,35.58,middle_tennessee,2023,jaiden_credle_middle_tennessee,False
-Jaiden Credle,JR,RB,5,49,233,4.76,2,9.80,46.60,middle_tennessee,2024,jaiden_credle_middle_tennessee,False
+Jaiden Credle,JR,RB,6,54,253,4.69,3,9.00,42.17,middle_tennessee,2024,jaiden_credle_middle_tennessee,False
 Jairus Grissom,FR,QB,6,3,19,6.33,1,0.50,3.17,eastern_michigan,2018,jairus_grissom_eastern_michigan,False
 Jairus Grissom,SO,WR,13,20,156,7.80,1,1.54,12.00,eastern_michigan,2019,jairus_grissom_eastern_michigan,False
 Jairus Grissom,JR,QB,2,5,16,3.20,0,2.50,8.00,eastern_michigan,2020,jairus_grissom_eastern_michigan,False
@@ -6345,6 +6347,7 @@ Jaret Patterson,FR,RB,14,183,1013,5.54,14,13.07,72.36,buffalo,2018,jaret_patters
 Jaret Patterson,SO,RB,13,312,1799,5.77,19,24.00,138.38,buffalo,2019,jaret_patterson_buffalo,False
 Jaret Patterson,JR,RB,6,141,1072,7.60,19,23.50,178.67,buffalo,2020,jaret_patterson_buffalo,False
 Jarod Bowie,SO,WR,3,1,1,1.00,0,0.33,0.33,jacksonville_state,2023,jarod_bowie_jacksonville_state,False
+Jarod Bowie,JR,WR,6,1,5,5.00,0,0.17,0.83,jacksonville_state,2024,jarod_bowie_jacksonville_state,False
 Jaron Glover,SO,WR,4,2,20,10.00,0,0.50,5.00,michigan_state,2024,jaron_glover_michigan_state,False
 Jarquez Hunter,FR,RB,13,89,593,6.66,3,6.85,45.62,auburn,2021,jarquez_hunter_auburn,False
 Jarquez Hunter,SO,RB,12,104,675,6.49,7,8.67,56.25,auburn,2022,jarquez_hunter_auburn,False
@@ -6440,7 +6443,7 @@ Jauan Wesley,JR,WR,12,4,5,1.25,1,0.33,0.42,northern_illinois,2017,jauan_wesley_n
 Jauan Wesley,SR,WR,14,1,2,2.00,0,0.07,0.14,northern_illinois,2018,jauan_wesley_northern_illinois,False
 Javance Tupou’ata-Johnson,FR,QB,2,9,5,0.56,0,4.50,2.50,san_diego_state,2024,javance_tupou’ata-johnson_san_diego_state,False
 Javaris Bufford,FR,RB,1,2,18,9.00,0,2.00,18.00,mississippi_state,2022,javaris_bufford_mississippi_state,False
-Javarius Green,FR,WR,5,1,8,8.00,0,0.20,1.60,north_carolina,2024,javarius_green_north_carolina,False
+Javarius Green,FR,WR,4,1,8,8.00,0,0.25,2.00,north_carolina,2024,javarius_green_north_carolina,False
 Javen Banks,FR,WR,12,4,0,0.00,1,0.33,0.00,texas_state,2018,javen_banks_texas_state,False
 Javen Jacobs,SO,RB,5,3,8,2.67,0,0.60,1.60,arizona_state,2023,javen_jacobs_arizona_state,True
 Javen Jacobs,SO,RB,5,27,200,7.41,2,5.40,40.00,new_mexico,2024,javen_jacobs_new_mexico,False
@@ -6527,6 +6530,7 @@ Jay Scheel,SO,WR,12,1,4,4.00,0,0.08,0.33,iowa,2016,jay_scheel_iowa,False
 Jay Sharp,FR,RB,1,5,15,3.00,0,5.00,15.00,auburn,2021,jay_sharp_auburn,False
 Jay Urich,FR,QB,1,1,14,14.00,0,1.00,14.00,south_carolina,2018,jay_urich_south_carolina,False
 Jay Warren,SR,RB,10,7,16,2.29,1,0.70,1.60,florida_atlantic,2016,jay_warren_florida_atlantic,False
+Jay Wilkerson,SO,WR,5,1,15,15.00,0,0.20,3.00,louisiana_tech,2024,jay_wilkerson_louisiana_tech,False
 Jay Woolfolk,FR,QB,5,24,72,3.00,0,4.80,14.40,virginia,2021,jay_woolfolk_virginia,False
 Jay Woolfolk,SO,QB,4,2,32,16.00,0,0.50,8.00,virginia,2022,jay_woolfolk_virginia,False
 Jay'Veon Sunday,FR,TB,4,8,10,1.25,0,2.00,2.50,washington,2021,jay'veon_sunday_washington,False
@@ -6551,6 +6555,7 @@ Jayden Mandal,FR,QB,4,1,-7,-7.00,0,0.25,-1.75,fresno_state,2024,jayden_mandal_fr
 Jayden McGowan,FR,WR,12,14,51,3.64,0,1.17,4.25,vanderbilt,2022,jayden_mcgowan_vanderbilt,False
 Jayden McGowan,SO,WR,12,18,109,6.06,0,1.50,9.08,vanderbilt,2023,jayden_mcgowan_vanderbilt,True
 Jayden McGowan,JR,WR,6,2,13,6.50,0,0.33,2.17,boston_college,2024,jayden_mcgowan_boston_college,False
+Jayden Mines,SO,WR,6,1,24,24.00,0,0.17,4.00,james_madison,2024,jayden_mines_james_madison,False
 Jayden Reed,FR,WR,13,1,-9,-9.00,0,0.08,-0.69,western_michigan,2018,jayden_reed_western_michigan,True
 Jayden Reed,SO,WR,7,6,17,2.83,0,0.86,2.43,michigan_state,2020,jayden_reed_michigan_state,False
 Jayden Reed,JR,WR,13,7,34,4.86,1,0.54,2.62,michigan_state,2021,jayden_reed_michigan_state,False
@@ -6725,7 +6730,7 @@ Jeffery Wilson,JR,RB,11,169,936,5.54,14,15.36,85.09,north_texas,2016,jeffery_wil
 Jeffery Wilson,SR,RB,11,188,1215,6.46,16,17.09,110.45,north_texas,2017,jeffery_wilson_north_texas,False
 Jehu Chesson,SR,WR,13,12,63,5.25,1,0.92,4.85,michigan,2016,jehu_chesson_michigan,False
 Jekail Middlebrook,FR,RB,4,18,85,4.72,2,4.50,21.25,middle_tennessee,2023,jekail_middlebrook_middle_tennessee,False
-Jekail Middlebrook,FR,RB,2,7,12,1.71,0,3.50,6.00,middle_tennessee,2024,jekail_middlebrook_middle_tennessee,False
+Jekail Middlebrook,FR,RB,3,12,42,3.50,0,4.00,14.00,middle_tennessee,2024,jekail_middlebrook_middle_tennessee,False
 Jela Duncan,SR,RB,7,88,450,5.11,6,12.57,64.29,duke,2016,jela_duncan_duke,False
 Jelani Roberts,SO,WR,9,3,-4,-1.33,0,0.33,-0.44,northwestern,2016,jelani_roberts_northwestern,False
 Jelani Roberts,JR,WR,8,10,98,9.80,2,1.25,12.25,northwestern,2017,jelani_roberts_northwestern,False
@@ -6867,7 +6872,7 @@ Jett Duffey,JR,QB,10,72,212,2.94,1,7.20,21.20,texas_tech,2019,jett_duffey_texas_
 Jevin Frett,JR,WR,11,1,-3,-3.00,0,0.09,-0.27,louisiana-monroe,2021,jevin_frett_louisiana-monroe,False
 Jevon Bigelow,FR,RB,10,69,292,4.23,2,6.90,29.20,wyoming,2018,jevon_bigelow_wyoming,True
 Jevon Bigelow,SO,RB,4,11,45,4.09,0,2.75,11.25,fresno_state,2020,jevon_bigelow_fresno_state,False
-Jevon Jackson,JR,RB,5,59,233,3.95,0,11.80,46.60,utep,2024,jevon_jackson_utep,False
+Jevon Jackson,JR,RB,6,65,239,3.68,0,10.83,39.83,utep,2024,jevon_jackson_utep,False
 Jevyon Ducker,SO,RB,13,110,544,4.95,7,8.46,41.85,memphis,2022,jevyon_ducker_memphis,False
 Jha'Quan Jackson,SO,WR,12,2,31,15.50,1,0.17,2.58,tulane,2020,jha'quan_jackson_tulane,False
 Jha'Quan Jackson,SO,WR,12,4,26,6.50,0,0.33,2.17,tulane,2021,jha'quan_jackson_tulane,False
@@ -6884,7 +6889,7 @@ Jimmie Haywood,SO,RB,2,4,12,3.00,0,2.00,6.00,southern_mississippi,2022,jimmie_ha
 Jimmy Calloway,FR,WR,8,1,-6,-6.00,0,0.13,-0.75,tennessee,2020,jimmy_calloway_tennessee,False
 Jimmy Calloway,SO,WR,14,3,20,6.67,0,0.21,1.43,louisville,2023,jimmy_calloway_louisville,False
 Jimmy Holiday,FR,WR,8,1,6,6.00,0,0.13,0.75,tennessee,2020,jimmy_holiday_tennessee,False
-Jimmy Holiday,SR,WR,4,7,30,4.29,3,1.75,7.50,louisiana_tech,2024,jimmy_holiday_louisiana_tech,False
+Jimmy Holiday,SR,WR,5,11,70,6.36,3,2.20,14.00,louisiana_tech,2024,jimmy_holiday_louisiana_tech,False
 Jimmy Horn Jr.,FR,WR,12,5,12,2.40,0,0.42,1.00,south_florida,2021,jimmy_horn_jr._south_florida,False
 Jimmy Horn Jr.,SO,WR,11,9,95,10.56,1,0.82,8.64,south_florida,2022,jimmy_horn_jr._south_florida,True
 Jimmy Horn Jr.,JR,WR,12,2,18,9.00,0,0.17,1.50,colorado,2023,jimmy_horn_jr._colorado,False
@@ -6915,7 +6920,7 @@ Joachim Bangda,FR,RB,10,45,291,6.47,1,4.50,29.10,kent_state,2019,joachim_bangda_
 Joachim Bangda,SO,RB,3,6,37,6.17,0,2.00,12.33,kent_state,2020,joachim_bangda_kent_state,False
 Joachim Bangda,JR,RB,8,19,135,7.11,1,2.38,16.88,kent_state,2021,joachim_bangda_kent_state,True
 Joachim Bangda,SR,RB,11,42,143,3.40,4,3.82,13.00,charlotte,2023,joachim_bangda_charlotte,False
-Jobi Malary,SR,RB,5,6,53,8.83,1,1.20,10.60,james_madison,2024,jobi_malary_james_madison,False
+Jobi Malary,SR,RB,6,9,63,7.00,1,1.50,10.50,james_madison,2024,jobi_malary_james_madison,False
 Jocquez Bruce,SO,RB,12,42,206,4.90,1,3.50,17.17,middle_tennessee,2017,jocquez_bruce_middle_tennessee,False
 Jocquez Bruce,JR,WR,5,3,0,0.00,0,0.60,0.00,middle_tennessee,2018,jocquez_bruce_middle_tennessee,False
 Joe Beneducci,JR,FB,2,1,1,1.00,0,0.50,0.50,michigan,2016,joe_beneducci_michigan,False
@@ -7752,7 +7757,7 @@ Jyran Mitchell,SO,TB,6,2,-2,-1.00,0,0.33,-0.33,northern_illinois,2020,jyran_mitc
 K'Wan Powell,FR,RB,8,24,123,5.13,1,3.00,15.38,south_florida,2022,k'wan_powell_south_florida,False
 K'wan Powell,SO,RB,9,61,215,3.52,1,6.78,23.89,south_florida,2023,k'wan_powell_south_florida,False
 K.D. Hutchinson,FR,WR,13,3,22,7.33,1,0.23,1.69,western_kentucky,2023,k.d._hutchinson_western_kentucky,False
-K.D. Hutchinson,SO,WR,5,1,0,0.00,0,0.20,0.00,western_kentucky,2024,k.d._hutchinson_western_kentucky,False
+K.D. Hutchinson,SO,WR,6,3,46,15.33,0,0.50,7.67,western_kentucky,2024,k.d._hutchinson_western_kentucky,False
 K.D. Nixon,FR,WR,12,3,20,6.67,0,0.25,1.67,colorado,2017,k.d._nixon_colorado,False
 K.D. Nixon,SO,WR,11,9,-8,-0.89,1,0.82,-0.73,colorado,2018,k.d._nixon_colorado,False
 K.D. Nixon,JR,WR,12,5,19,3.80,0,0.42,1.58,colorado,2019,k.d._nixon_colorado,False
@@ -7909,7 +7914,7 @@ Kam Martin,SR,RB,12,61,333,5.46,2,5.08,27.75,auburn,2019,kam_martin_auburn,False
 Kam McKnight,SO,WR,14,15,32,2.13,7,1.07,2.29,louisiana_tech,2016,kam_mcknight_louisiana_tech,False
 Kam McKnight,JR,WR,13,15,42,2.80,3,1.15,3.23,louisiana_tech,2017,kam_mcknight_louisiana_tech,False
 Kam McKnight,SR,RB,13,81,374,4.62,7,6.23,28.77,louisiana_tech,2018,kam_mcknight_louisiana_tech,False
-Kam Thomas,JR,MB,5,8,25,3.13,0,1.60,5.00,utep,2024,kam_thomas_utep,False
+Kam Thomas,JR,MB,6,9,30,3.33,0,1.50,5.00,utep,2024,kam_thomas_utep,False
 Kamal Gray,FR,QB,1,2,13,6.50,0,2.00,13.00,temple,2020,kamal_gray_temple,False
 Kamalu DeBlake,JR,RB,4,4,18,4.50,0,1.00,4.50,hawai'i,2024,kamalu_deblake_hawai'i,False
 Kamari Moulton,FR,RB,4,27,93,3.44,2,6.75,23.25,iowa,2023,kamari_moulton_iowa,False
@@ -8485,7 +8490,7 @@ Kirk Johnson Jr.,SO,WR,9,1,0,0.00,0,0.11,0.00,utsa,2018,kirk_johnson_jr._utsa,Fa
 Kirk Merritt,JR,WR,13,5,31,6.20,0,0.38,2.38,arkansas_state,2018,kirk_merritt_arkansas_state,False
 Kirk Merritt,SR,WR,13,2,11,5.50,0,0.15,0.85,arkansas_state,2019,kirk_merritt_arkansas_state,False
 Kirk Rygol,SO,QB,5,9,29,3.22,0,1.80,5.80,south_florida,2019,kirk_rygol_south_florida,False
-Kisean Johnson,SR,WR,5,3,14,4.67,0,0.60,2.80,western_kentucky,2024,kisean_johnson_western_kentucky,False
+Kisean Johnson,SR,WR,6,3,14,4.67,0,0.50,2.33,western_kentucky,2024,kisean_johnson_western_kentucky,False
 Kitan Crawford,SR,S,6,1,-4,-4.00,0,0.17,-0.67,nevada,2024,kitan_crawford_nevada,False
 Kjetil Cline,SO,WR,12,1,23,23.00,0,0.08,1.92,army,2017,kjetil_cline_army,False
 Knowledge McDaniel,SO,RB,9,35,212,6.06,2,3.89,23.56,marshall,2020,knowledge_mcdaniel_marshall,False
@@ -8678,7 +8683,7 @@ L.A. Ramsby,SR,RB,12,141,578,4.10,6,11.75,48.17,georgia_southern,2017,l.a._ramsb
 L.J. Scott,JR,RB,4,3,15,5.00,0,0.75,3.75,louisville,2016,l.j._scott_louisville,False
 L.T. Sanders,FR,RB,9,44,292,6.64,1,4.89,32.44,western_kentucky,2022,l.t._sanders_western_kentucky,False
 L.T. Sanders,SO,RB,10,31,138,4.45,0,3.10,13.80,western_kentucky,2023,l.t._sanders_western_kentucky,False
-L.T. Sanders,JR,RB,4,15,83,5.53,1,3.75,20.75,western_kentucky,2024,l.t._sanders_western_kentucky,False
+L.T. Sanders,JR,RB,5,19,99,5.21,1,3.80,19.80,western_kentucky,2024,l.t._sanders_western_kentucky,False
 LD Brown,FR,RB,11,34,223,6.56,3,3.09,20.27,oklahoma_state,2017,ld_brown_oklahoma_state,False
 LD Brown,SO,RB,10,27,163,6.04,1,2.70,16.30,oklahoma_state,2018,ld_brown_oklahoma_state,False
 LD Brown,JR,RB,13,40,221,5.53,2,3.08,17.00,oklahoma_state,2019,ld_brown_oklahoma_state,False
@@ -8768,7 +8773,7 @@ Landry Lyddy,FR,QB,7,13,8,0.62,1,1.86,1.14,louisiana_tech,2022,landry_lyddy_loui
 Landry Lyddy,SO,QB,3,3,-20,-6.67,0,1.00,-6.67,uab,2023,landry_lyddy_uab,False
 Laquan Veney,FR,RB,3,3,30,10.00,0,1.00,10.00,army,2021,laquan_veney_army,False
 Larenzo McMillan,SO,RB,2,5,68,13.60,0,2.50,34.00,new_mexico_state,2023,larenzo_mcmillan_new_mexico_state,False
-Larenzo McMillan,JR,RB,3,3,91,30.33,1,1.00,30.33,new_mexico_state,2024,larenzo_mcmillan_new_mexico_state,False
+Larenzo McMillan,JR,RB,4,3,91,30.33,1,0.75,22.75,new_mexico_state,2024,larenzo_mcmillan_new_mexico_state,False
 Laress Nelson,FR,WR,10,1,2,2.00,0,0.10,0.20,michigan_state,2017,laress_nelson_michigan_state,False
 Laress Nelson,SO,WR,8,2,2,1.00,0,0.25,0.25,michigan_state,2018,laress_nelson_michigan_state,False
 Laress Nelson,JR,WR,13,1,5,5.00,0,0.08,0.38,michigan_state,2019,laress_nelson_michigan_state,False
@@ -8943,7 +8948,7 @@ Logan Fife,JR,QB,12,28,40,1.43,1,2.33,3.33,fresno_state,2023,logan_fife_fresno_s
 Logan Holgorsen,FR,QB,6,4,-8,-2.00,0,0.67,-1.33,houston,2019,logan_holgorsen_houston,False
 Logan Holgorsen,SO,QB,4,2,-3,-1.50,0,0.50,-0.75,houston,2020,logan_holgorsen_houston,False
 Logan Kyle,SR,TE,12,2,25,12.50,0,0.17,2.08,vanderbilt,2023,logan_kyle_vanderbilt,True
-Logan Kyle,JR,TE,5,1,-2,-2.00,0,0.20,-0.40,james_madison,2024,logan_kyle_james_madison,False
+Logan Kyle,JR,TE,6,1,-2,-2.00,0,0.17,-0.33,james_madison,2024,logan_kyle_james_madison,False
 Logan Marchi,FR,QB,6,1,-2,-2.00,0,0.17,-0.33,temple,2016,logan_marchi_temple,False
 Logan Marchi,SO,QB,7,26,-30,-1.15,0,3.71,-4.29,temple,2017,logan_marchi_temple,False
 Logan Moragne,SO,RB,13,9,22,2.44,0,0.69,1.69,arkansas_state,2016,logan_moragne_arkansas_state,False
@@ -8952,7 +8957,7 @@ Logan Point,JR,FB,6,2,6,3.00,0,0.33,1.00,navy,2023,logan_point_navy,False
 Logan Smothers,FR,QB,6,37,133,3.59,2,6.17,22.17,nebraska,2021,logan_smothers_nebraska,False
 Logan Smothers,SO,QB,5,12,28,2.33,0,2.40,5.60,nebraska,2022,logan_smothers_nebraska,True
 Logan Smothers,JR,QB,12,85,322,3.79,7,7.08,26.83,jacksonville_state,2023,logan_smothers_jacksonville_state,False
-Logan Smothers,SR,QB,3,11,32,2.91,0,3.67,10.67,jacksonville_state,2024,logan_smothers_jacksonville_state,False
+Logan Smothers,SR,QB,4,13,119,9.15,1,3.25,29.75,jacksonville_state,2024,logan_smothers_jacksonville_state,False
 Logan Woodside,JR,QB,13,37,-40,-1.08,0,2.85,-3.08,toledo,2016,logan_woodside_toledo,False
 Logan Woodside,SR,QB,14,51,34,0.67,1,3.64,2.43,toledo,2017,logan_woodside_toledo,False
 Logan Wright,FR,RB,13,47,308,6.55,3,3.62,23.69,georgia_southern,2018,logan_wright_georgia_southern,False
@@ -9098,7 +9103,7 @@ Mac Jones,SO,QB,12,16,36,2.25,1,1.33,3.00,alabama,2019,mac_jones_alabama,False
 Mac Jones,JR,QB,13,35,14,0.40,1,2.69,1.08,alabama,2020,mac_jones_alabama,False
 Mac Loudermilk,SO,P,10,1,-5,-5.00,0,0.10,-0.50,ucf,2016,mac_loudermilk_ucf,False
 Maciah Long,FR,TE,10,2,1,0.50,0,0.20,0.10,kansas,2016,maciah_long_kansas,False
-Mack West,JR,P,5,1,-5,-5.00,0,0.20,-1.00,coastal_carolina,2024,mack_west_coastal_carolina,False
+Mack West,JR,P,6,1,-5,-5.00,0,0.17,-0.83,coastal_carolina,2024,mack_west_coastal_carolina,False
 Mackenzie Morgan,SR,P,12,1,10,10.00,1,0.08,0.83,temple,2022,mackenzie_morgan_temple,False
 Maddox Kopp,FR,QB,2,4,9,2.25,0,2.00,4.50,colorado,2022,maddox_kopp_colorado,True
 Maddox Kopp,SO,QB,2,1,-4,-4.00,0,0.50,-2.00,miami_ohio,2023,maddox_kopp_miami_ohio,False
@@ -9438,7 +9443,7 @@ Markis McCray,SR,WR,12,9,84,9.33,0,0.75,7.00,louisiana-monroe,2019,markis_mccray
 Markquan Rucker,FR,RB,4,2,6,3.00,0,0.50,1.50,west_virginia,2021,markquan_rucker_west_virginia,False
 Markus Allen,FR,WR,3,1,4,4.00,0,0.33,1.33,wisconsin,2021,markus_allen_wisconsin,False
 Marlion Jackson,FR,WR,10,2,1,0.50,0,0.20,0.10,louisiana_tech,2023,marlion_jackson_louisiana_tech,False
-Marlion Jackson,SO,WR,4,2,3,1.50,0,0.50,0.75,louisiana_tech,2024,marlion_jackson_louisiana_tech,False
+Marlion Jackson,SO,WR,5,2,3,1.50,0,0.40,0.60,louisiana_tech,2024,marlion_jackson_louisiana_tech,False
 Marlon Gunn Jr.,FR,RB,11,68,344,5.06,0,6.18,31.27,east_carolina,2022,marlon_gunn_jr._east_carolina,False
 Marlon Gunn Jr.,SO,RB,11,24,65,2.71,0,2.18,5.91,east_carolina,2023,marlon_gunn_jr._east_carolina,False
 Marlon Gunn Jr.,JR,RB,6,23,60,2.61,1,3.83,10.00,east_carolina,2024,marlon_gunn_jr._east_carolina,False
@@ -9470,7 +9475,7 @@ Marquez Valdes-Scantling,SR,WR,12,8,108,13.50,1,0.67,9.00,south_florida,2017,mar
 Marquez Williams,SR,FB,13,1,1,1.00,0,0.08,0.08,miami_florida,2016,marquez_williams_miami_florida,False
 Marquis Crosby,FR,RB,12,183,918,5.02,9,15.25,76.50,louisiana_tech,2022,marquis_crosby_louisiana_tech,False
 Marquis Crosby,SO,RB,1,1,20,20.00,0,1.00,20.00,louisiana_tech,2023,marquis_crosby_louisiana_tech,False
-Marquis Crosby,JR,RB,3,17,65,3.82,0,5.67,21.67,louisiana_tech,2024,marquis_crosby_louisiana_tech,False
+Marquis Crosby,JR,RB,4,22,106,4.82,0,5.50,26.50,louisiana_tech,2024,marquis_crosby_louisiana_tech,False
 Marquis Johnson,FR,WR,13,1,3,3.00,0,0.08,0.23,missouri,2023,marquis_johnson_missouri,False
 Marquis Shoulders,JR,WR,3,1,5,5.00,0,0.33,1.67,houston,2024,marquis_shoulders_houston,False
 Marquis Young,SO,RB,12,198,898,4.54,4,16.50,74.83,massachusetts,2016,marquis_young_massachusetts,False
@@ -9857,7 +9862,7 @@ Michael Mathison,FR,WR,10,2,10,5.00,0,0.20,1.00,akron,2019,michael_mathison_akro
 Michael Mathison,SO,WR,4,1,3,3.00,0,0.25,0.75,akron,2020,michael_mathison_akron,False
 Michael Mathison,SO,WR,11,1,5,5.00,0,0.09,0.45,akron,2021,michael_mathison_akron,True
 Michael Mathison,JR,WR,14,5,61,12.20,0,0.36,4.36,western_kentucky,2022,michael_mathison_western_kentucky,False
-Michael Mathison,SR,WR,4,3,12,4.00,0,0.75,3.00,western_kentucky,2024,michael_mathison_western_kentucky,False
+Michael Mathison,SR,WR,5,5,28,5.60,1,1.00,5.60,western_kentucky,2024,michael_mathison_western_kentucky,False
 Michael O'Shaughnessy,SR,P,7,1,-22,-22.00,0,0.14,-3.14,michigan_state,2023,michael_o'shaughnessy_michigan_state,False
 Michael Orphey Jr.,FR,RB,2,3,22,7.33,1,1.50,11.00,louisiana-lafayette,2019,michael_orphey_jr._louisiana-lafayette,False
 "Michael Orphey, Jr.",SO,RB,4,4,61,15.25,1,1.00,15.25,louisiana-lafayette,2020,"michael_orphey,_jr._louisiana-lafayette",False
@@ -9869,7 +9874,7 @@ Michael Penix Jr.,SO,QB,6,18,25,1.39,2,3.00,4.17,indiana,2020,michael_penix_jr._
 Michael Penix Jr.,JR,QB,5,17,-24,-1.41,2,3.40,-4.80,indiana,2021,michael_penix_jr._indiana,True
 Michael Penix Jr.,JR,QB,13,35,92,2.63,4,2.69,7.08,washington,2022,michael_penix_jr._washington,False
 Michael Penix Jr.,SR,QB,15,35,8,0.23,3,2.33,0.53,washington,2023,michael_penix_jr._washington,False
-Michael Pettway,JR,WR,5,2,12,6.00,0,0.40,2.40,jacksonville_state,2024,michael_pettway_jacksonville_state,False
+Michael Pettway,JR,WR,6,2,12,6.00,0,0.33,2.00,jacksonville_state,2024,michael_pettway_jacksonville_state,False
 Michael Phoenix II,JR,WR,5,1,4,4.00,0,0.20,0.80,sam_houston_state,2024,michael_phoenix_ii_sam_houston_state,False
 Michael Pittman Jr.,JR,WR,11,1,9,9.00,0,0.09,0.82,usc,2018,michael_pittman_jr._usc,False
 Michael Pratt,FR,QB,10,115,229,1.99,8,11.50,22.90,tulane,2020,michael_pratt_tulane,False
@@ -9967,7 +9972,7 @@ Mike Warren,SO,RB,11,134,559,4.17,3,12.18,50.82,iowa_state,2016,mike_warren_iowa
 Mike Warren,JR,RB,9,34,105,3.09,1,3.78,11.67,iowa_state,2017,mike_warren_iowa_state,False
 Mike Washington,FR,RB,3,23,132,5.74,1,7.67,44.00,buffalo,2021,mike_washington_buffalo,False
 Mike Washington,FR,RB,13,150,625,4.17,7,11.54,48.08,buffalo,2022,mike_washington_buffalo,True
-Mike Washington,JR,RB,5,56,197,3.52,2,11.20,39.40,new_mexico_state,2024,mike_washington_new_mexico_state,False
+Mike Washington,JR,RB,6,69,273,3.96,2,11.50,45.50,new_mexico_state,2024,mike_washington_new_mexico_state,False
 "Mike Washington, Jr.",SO,RB,11,90,362,4.02,2,8.18,32.91,buffalo,2023,"mike_washington,_jr._buffalo",False
 Mike Weber,FR,RB,13,182,1096,6.02,9,14.00,84.31,ohio_state,2016,mike_weber_ohio_state,False
 Mike Weber,SO,RB,12,101,626,6.20,10,8.42,52.17,ohio_state,2017,mike_weber_ohio_state,False
@@ -10093,7 +10098,7 @@ Monte Pottebaum,SO,FB,8,1,0,0.00,0,0.13,0.00,iowa,2020,monte_pottebaum_iowa,Fals
 Monte Pottebaum,JR,FB,14,15,76,5.07,1,1.07,5.43,iowa,2021,monte_pottebaum_iowa,False
 Monte Pottebaum,SR,FB,12,3,6,2.00,0,0.25,0.50,iowa,2022,monte_pottebaum_iowa,False
 Monte Watkins,SO,RB,14,59,572,9.69,2,4.21,40.86,new_mexico_state,2023,monte_watkins_new_mexico_state,False
-Monte Watkins,JR,RB,5,14,52,3.71,0,2.80,10.40,new_mexico_state,2024,monte_watkins_new_mexico_state,False
+Monte Watkins,JR,RB,6,16,66,4.13,0,2.67,11.00,new_mexico_state,2024,monte_watkins_new_mexico_state,False
 Montel Aaron,FR,QB,10,52,-87,-1.67,1,5.20,-8.70,san_jose_state,2017,montel_aaron_san_jose_state,False
 Montel Aaron,SO,QB,7,21,-24,-1.14,0,3.00,-3.43,san_jose_state,2018,montel_aaron_san_jose_state,False
 Montell Cozart,JR,QB,8,28,91,3.25,0,3.50,11.38,kansas,2016,montell_cozart_kansas,True
@@ -10335,7 +10340,7 @@ Nicholas Singleton,JR,RB,4,53,408,7.70,3,13.25,102.00,penn_state,2024,nicholas_s
 Nicholas Vattiato,FR,QB,6,25,27,1.08,0,4.17,4.50,middle_tennessee,2021,nicholas_vattiato_middle_tennessee,False
 Nicholas Vattiato,SO,QB,2,24,13,0.54,0,12.00,6.50,middle_tennessee,2022,nicholas_vattiato_middle_tennessee,False
 Nicholas Vattiato,SO,QB,12,139,397,2.86,2,11.58,33.08,middle_tennessee,2023,nicholas_vattiato_middle_tennessee,False
-Nicholas Vattiato,JR,QB,5,40,-17,-0.43,0,8.00,-3.40,middle_tennessee,2024,nicholas_vattiato_middle_tennessee,False
+Nicholas Vattiato,JR,QB,6,46,-17,-0.37,0,7.67,-2.83,middle_tennessee,2024,nicholas_vattiato_middle_tennessee,False
 Nick Anderson,SR,LB,14,1,3,3.00,0,0.07,0.21,tulane,2022,nick_anderson_tulane,False
 Nick Ast,SO,QB,5,2,1,0.50,0,0.40,0.20,kansas_state,2019,nick_ast_kansas_state,False
 Nick Ast,JR,QB,3,6,-19,-3.17,0,2.00,-6.33,kansas_state,2020,nick_ast_kansas_state,True
@@ -10452,7 +10457,7 @@ Noah Igbinoghene,FR,WR,14,1,11,11.00,0,0.07,0.79,auburn,2017,noah_igbinoghene_au
 Noah Johnson,SR,QB,6,41,106,2.59,3,6.83,17.67,south_florida,2020,noah_johnson_south_florida,False
 Noah Kim,SO,QB,4,1,5,5.00,0,0.25,1.25,michigan_state,2022,noah_kim_michigan_state,False
 Noah Kim,JR,QB,5,27,53,1.96,0,5.40,10.60,michigan_state,2023,noah_kim_michigan_state,True
-Noah Kim,SR,QB,3,3,7,2.33,0,1.00,2.33,coastal_carolina,2024,noah_kim_coastal_carolina,False
+Noah Kim,SR,QB,4,6,-2,-0.33,0,1.50,-0.50,coastal_carolina,2024,noah_kim_coastal_carolina,False
 Noah Sewell,SO,ILB,12,1,1,1.00,1,0.08,0.08,oregon,2022,noah_sewell_oregon,False
 Noah Short,SO,WR,12,3,8,2.67,0,0.25,0.67,army,2023,noah_short_army,False
 Noah Short,JR,SB,5,28,355,12.68,2,5.60,71.00,army,2024,noah_short_army,False
@@ -10553,7 +10558,7 @@ Omarion Dollison,JR,WR,11,2,29,14.50,0,0.18,2.64,james_madison,2023,omarion_doll
 Omarion Hampton,FR,RB,13,88,401,4.56,6,6.77,30.85,north_carolina,2022,omarion_hampton_north_carolina,False
 Omarion Hampton,SO,RB,13,253,1504,5.94,15,19.46,115.69,north_carolina,2023,omarion_hampton_north_carolina,False
 Omarion Hampton,JR,RB,6,137,764,5.58,7,22.83,127.33,north_carolina,2024,omarion_hampton_north_carolina,False
-Omiri Wiggins,SO,RB,4,19,59,3.11,0,4.75,14.75,louisiana_tech,2024,omiri_wiggins_louisiana_tech,False
+Omiri Wiggins,SO,RB,5,27,108,4.00,0,5.40,21.60,louisiana_tech,2024,omiri_wiggins_louisiana_tech,False
 Omni Wells,SR,RB,13,57,242,4.25,0,4.38,18.62,south_alabama,2022,omni_wells_south_alabama,False
 Onasis Neely,FR,RB,5,20,63,3.15,1,4.00,12.60,temple,2020,onasis_neely_temple,False
 Ontaria Wilson,SO,WR,8,2,15,7.50,1,0.25,1.88,florida_state,2019,ontaria_wilson_florida_state,False
@@ -10600,7 +10605,7 @@ Ozzy Trapilo,JR,OL,12,0,1,-,0,-,-,boston_college,2023,ozzy_trapilo_boston_colleg
 P.J. Locke III,JR,DB,9,0,4,-,0,-,-,texas,2017,p.j._locke_iii_texas,False
 P.J. Prioleau,JR,RB,6,7,29,4.14,0,1.17,4.83,virginia_tech,2024,p.j._prioleau_virginia_tech,False
 PJ Johnson III,SO,WR,9,1,15,15.00,0,0.11,1.67,new_mexico_state,2023,pj_johnson_iii_new_mexico_state,False
-PJ Johnson III,JR,WR,5,2,3,1.50,0,0.40,0.60,new_mexico_state,2024,pj_johnson_iii_new_mexico_state,False
+PJ Johnson III,JR,WR,6,2,3,1.50,0,0.33,0.50,new_mexico_state,2024,pj_johnson_iii_new_mexico_state,False
 PJ Martin,FR,RB,4,12,75,6.25,1,3.00,18.75,south_alabama,2023,pj_martin_south_alabama,False
 PJ Martin,FR,RB,6,11,88,8.00,1,1.83,14.67,south_alabama,2024,pj_martin_south_alabama,False
 PJ Mustipher,SR,DT,6,1,0,0.00,0,0.17,0.00,penn_state,2021,pj_mustipher_penn_state,False
@@ -10618,7 +10623,7 @@ Papi White,SO,RB,12,47,206,4.38,3,3.92,17.17,ohio,2016,papi_white_ohio,False
 Papi White,JR,WR,9,4,46,11.50,0,0.44,5.11,ohio,2017,papi_white_ohio,False
 Papi White,SR,WR,13,3,24,8.00,1,0.23,1.85,ohio,2018,papi_white_ohio,False
 Parker Adamson,JR,QB,4,13,60,4.62,1,3.25,15.00,southern_mississippi,2016,parker_adamson_southern_mississippi,False
-Parker Awad,SO,QB,3,25,7,0.28,1,8.33,2.33,new_mexico_state,2024,parker_awad_new_mexico_state,False
+Parker Awad,SO,QB,4,30,28,0.93,1,7.50,7.00,new_mexico_state,2024,parker_awad_new_mexico_state,False
 Parker Boehme,JR,QB,5,12,64,5.33,1,2.40,12.80,duke,2016,parker_boehme_duke,False
 Parker Boehme,SR,QB,12,2,15,7.50,0,0.17,1.25,duke,2017,parker_boehme_duke,False
 Parker Christensen,FR,TE,6,1,5,5.00,0,0.17,0.83,wyoming,2020,parker_christensen_wyoming,False
@@ -11592,7 +11597,7 @@ Samaje Perine,JR,RB,10,196,1060,5.41,12,19.60,106.00,oklahoma,2016,samaje_perine
 Samajie Grant,SR,WR,12,74,461,6.23,6,6.17,38.42,arizona,2016,samajie_grant_arizona,False
 Samari Howard,SO,SB,5,13,66,5.08,0,2.60,13.20,army,2024,samari_howard_army,False
 Samario Rudolph,SO,WR,12,1,9,9.00,0,0.08,0.75,uab,2021,samario_rudolph_uab,False
-Samario Rudolph,SR,WR,5,1,10,10.00,0,0.20,2.00,jacksonville_state,2024,samario_rudolph_jacksonville_state,False
+Samario Rudolph,SR,WR,6,1,10,10.00,0,0.17,1.67,jacksonville_state,2024,samario_rudolph_jacksonville_state,False
 Sammy Malignaggi,SO,RB,11,14,60,4.29,1,1.27,5.45,james_madison,2022,sammy_malignaggi_james_madison,False
 Sammy Malignaggi,JR,RB,11,13,71,5.46,0,1.18,6.45,james_madison,2023,sammy_malignaggi_james_madison,False
 Samori Toure,SR,WR,12,8,63,7.88,1,0.67,5.25,nebraska,2021,samori_toure_nebraska,False
@@ -11619,7 +11624,7 @@ Sandon McCoy,JR,RB,13,134,576,4.30,10,10.31,44.31,army,2019,sandon_mccoy_army,Fa
 Sandon McCoy,SR,RB,11,86,268,3.12,10,7.82,24.36,army,2020,sandon_mccoy_army,False
 Santino Marucci,FR,QB,1,1,-3,-3.00,0,1.00,-3.00,wake_forest,2021,santino_marucci_wake_forest,False
 Santino Marucci,SO,QB,3,8,4,0.50,0,2.67,1.33,wake_forest,2023,santino_marucci_wake_forest,True
-Santino Marucci,JR,QB,3,18,74,4.11,1,6.00,24.67,new_mexico_state,2024,santino_marucci_new_mexico_state,False
+Santino Marucci,JR,QB,4,21,95,4.52,1,5.25,23.75,new_mexico_state,2024,santino_marucci_new_mexico_state,False
 Saquon Barkley,SO,RB,14,272,1496,5.50,18,19.43,106.86,penn_state,2016,saquon_barkley_penn_state,False
 Saquon Barkley,JR,RB,13,217,1271,5.86,18,16.69,97.77,penn_state,2017,saquon_barkley_penn_state,False
 Savion Red,SO,RB,12,30,131,4.37,1,2.50,10.92,texas,2023,savion_red_texas,True
@@ -11725,7 +11730,7 @@ Seth Henigan,JR,QB,13,94,274,2.91,5,7.23,21.08,memphis,2023,seth_henigan_memphis
 Seth Henigan,SR,QB,5,24,60,2.50,0,4.80,12.00,memphis,2024,seth_henigan_memphis,False
 Seth Keller,SO,K,10,1,12,12.00,1,0.10,1.20,texas_state,2020,seth_keller_texas_state,False
 Seth McGowan,FR,RB,8,58,370,6.38,3,7.25,46.25,oklahoma,2020,seth_mcgowan_oklahoma,True
-Seth McGowan,JR,RB,5,58,334,5.76,2,11.60,66.80,new_mexico_state,2024,seth_mcgowan_new_mexico_state,False
+Seth McGowan,JR,RB,6,72,392,5.44,2,12.00,65.33,new_mexico_state,2024,seth_mcgowan_new_mexico_state,False
 Seth Paige,FR,RB,10,62,341,5.50,4,6.20,34.10,georgia_state,2018,seth_paige_georgia_state,False
 Seth Paige,SO,RB,8,61,405,6.64,4,7.63,50.63,georgia_state,2019,seth_paige_georgia_state,False
 Seth Paige,JR,RB,1,5,13,2.60,0,5.00,13.00,georgia_state,2020,seth_paige_georgia_state,False
@@ -11835,7 +11840,7 @@ Shawndarrius Phillips,JR,RB,11,94,393,4.18,4,8.55,35.73,florida_international,20
 Shawqi Itraish,FR,QB,5,5,-16,-3.20,0,1.00,-3.20,rice,2022,shawqi_itraish_rice,False
 Shawqi Itraish,SO,QB,3,1,4,4.00,0,0.33,1.33,rice,2023,shawqi_itraish_rice,False
 Shay Fields,JR,WR,14,1,12,12.00,0,0.07,0.86,colorado,2016,shay_fields_colorado,False
-Shay Smith,FR,QB,2,3,-5,-1.67,0,1.50,-2.50,utep,2024,shay_smith_utep,False
+Shay Smith,FR,QB,3,3,-5,-1.67,0,1.00,-1.67,utep,2024,shay_smith_utep,False
 Shayne Davern,SR,RB,12,116,475,4.09,4,9.67,39.58,air_force,2016,shayne_davern_air_force,False
 Shea Patterson,FR,QB,3,41,169,4.12,0,13.67,56.33,mississippi,2016,shea_patterson_mississippi,False
 Shea Patterson,SO,QB,7,47,-16,-0.34,1,6.71,-2.29,mississippi,2017,shea_patterson_mississippi,True
@@ -11902,11 +11907,12 @@ Silver Saunders,SR,RB,12,9,48,5.33,0,0.75,4.00,florida_atlantic,2018,silver_saun
 Simeon Evans,SO,ATH,10,1,9,9.00,0,0.10,0.90,sam_houston_state,2023,simeon_evans_sam_houston_state,False
 Simeon Price,FR,RB,12,30,150,5.00,0,2.50,12.50,mississippi_state,2022,simeon_price_mississippi_state,False
 Simeon Price,SO,RB,9,5,41,8.20,0,0.56,4.56,mississippi_state,2023,simeon_price_mississippi_state,True
-Simeon Price,JR,RB,3,23,62,2.70,0,7.67,20.67,coastal_carolina,2024,simeon_price_coastal_carolina,False
+Simeon Price,JR,RB,4,28,67,2.39,0,7.00,16.75,coastal_carolina,2024,simeon_price_coastal_carolina,False
 Simi Bakare,FR,RB,7,11,53,4.82,1,1.57,7.57,missouri,2018,simi_bakare_missouri,False
 Simi Bakare,SO,RB,12,8,37,4.63,0,0.67,3.08,missouri,2019,simi_bakare_missouri,False
 Simi Fehoko,JR,WR,6,1,-1,-1.00,0,0.17,-0.17,stanford,2020,simi_fehoko_stanford,False
 Simino Walden,JR,WR,6,1,12,12.00,0,0.17,2.00,marshall,2019,simino_walden_marshall,False
+Simon Wilson,JR,OL,6,1,-1,-1.00,0,0.17,-0.17,middle_tennessee,2024,simon_wilson_middle_tennessee,False
 Sincere McCormick,FR,RB,12,177,983,5.55,8,14.75,81.92,utsa,2019,sincere_mccormick_utsa,False
 Sincere McCormick,SO,RB,11,249,1467,5.89,11,22.64,133.36,utsa,2020,sincere_mccormick_utsa,False
 Sincere McCormick,JR,RB,14,299,1479,4.95,15,21.36,105.64,utsa,2021,sincere_mccormick_utsa,False
@@ -11926,7 +11932,7 @@ Skylar Thompson,SR,QB,10,47,4,0.09,4,4.70,0.40,kansas_state,2021,skylar_thompson
 Skyler Bell,FR,WR,13,13,160,12.31,0,1.00,12.31,wisconsin,2022,skyler_bell_wisconsin,False
 Skyler Bell,JR,WR,6,0,4,-,0,-,-,connecticut,2024,skyler_bell_connecticut,False
 Skyler Howard,SR,QB,13,142,463,3.26,10,10.92,35.62,west_virginia,2016,skyler_howard_west_virginia,False
-Skyler Locklear,SO,QB,4,38,87,2.29,1,9.50,21.75,utep,2024,skyler_locklear_utep,False
+Skyler Locklear,SO,QB,5,44,110,2.50,1,8.80,22.00,utep,2024,skyler_locklear_utep,False
 Skyler Seibold,SR,RB,13,8,38,4.75,0,0.62,2.92,boise_state,2018,skyler_seibold_boise_state,False
 Skyy Moore,FR,WR,13,1,2,2.00,1,0.08,0.15,western_michigan,2019,skyy_moore_western_michigan,False
 Skyy Moore,SO,WR,5,1,0,0.00,0,0.20,0.00,western_michigan,2020,skyy_moore_western_michigan,False
@@ -11947,6 +11953,7 @@ Sol-Jay Maiava-Peters,FR,QB,1,14,96,6.86,1,14.00,96.00,byu,2022,sol-jay_maiava-p
 Sol-Jay Maiava-Peters,JR,RB,4,5,35,7.00,0,1.25,8.75,new_mexico,2024,sol-jay_maiava-peters_new_mexico,False
 Solo Lewis,FR,WR,3,2,7,3.50,0,0.67,2.33,louisiana_tech,2022,solo_lewis_louisiana_tech,False
 Solo Lewis,SO,WR,5,1,0,0.00,0,0.20,0.00,louisiana_tech,2023,solo_lewis_louisiana_tech,False
+Solo Lewis,JR,WR,5,1,5,5.00,0,0.20,1.00,louisiana_tech,2024,solo_lewis_louisiana_tech,False
 Solo Vaipulu,SR,RB,13,12,63,5.25,0,0.92,4.85,hawai'i,2023,solo_vaipulu_hawai'i,False
 Solomon Beebe,FR,RB,3,10,47,4.70,1,3.33,15.67,uab,2024,solomon_beebe_uab,False
 Solomon Davis,SR,WR,5,1,9,9.00,0,0.20,1.80,central_michigan,2024,solomon_davis_central_michigan,False
@@ -12166,7 +12173,7 @@ TJ McDaniel,SO,RB,12,43,208,4.84,4,3.58,17.33,smu,2022,tj_mcdaniel_smu,False
 TJ McMahon,SO,QB,11,2,4,2.00,0,0.18,0.36,rice,2021,tj_mcmahon_rice,False
 TJ McMahon,JR,QB,10,65,154,2.37,3,6.50,15.40,rice,2022,tj_mcmahon_rice,False
 TJ Pledger,JR,RB,14,104,694,6.67,6,7.43,49.57,utah,2021,tj_pledger_utah,False
-TJ Pride,FR,WR,5,4,29,7.25,0,0.80,5.80,new_mexico_state,2024,tj_pride_new_mexico_state,False
+TJ Pride,FR,WR,6,5,43,8.60,0,0.83,7.17,new_mexico_state,2024,tj_pride_new_mexico_state,False
 TJ Sheffield,SO,WR,12,1,-4,-4.00,0,0.08,-0.33,purdue,2021,tj_sheffield_purdue,False
 TJ Sheffield,JR,WR,14,4,3,0.75,0,0.29,0.21,purdue,2022,tj_sheffield_purdue,False
 TJ Wisham Jr.,FR,RB,3,2,14,7.00,0,0.67,4.67,army,2017,tj_wisham_jr._army,False
@@ -12503,7 +12510,7 @@ Terry Swanson,SR,RB,13,242,1363,5.63,14,18.62,104.85,toledo,2017,terry_swanson_t
 Terry Wilkins,FR,RB,1,1,5,5.00,0,1.00,5.00,middle_tennessee,2021,terry_wilkins_middle_tennessee,False
 Terry Wilkins,FR,RB,10,19,110,5.79,1,1.90,11.00,middle_tennessee,2022,terry_wilkins_middle_tennessee,False
 Terry Wilkins,SO,RB,7,18,146,8.11,1,2.57,20.86,middle_tennessee,2023,terry_wilkins_middle_tennessee,False
-Terry Wilkins,SR,RB,5,34,114,3.35,1,6.80,22.80,middle_tennessee,2024,terry_wilkins_middle_tennessee,False
+Terry Wilkins,SR,RB,6,38,125,3.29,1,6.33,20.83,middle_tennessee,2024,terry_wilkins_middle_tennessee,False
 Terry Wilson,SO,QB,13,135,547,4.05,4,10.38,42.08,kentucky,2018,terry_wilson_kentucky,False
 Terry Wilson,JR,QB,4,17,44,2.59,1,4.25,11.00,kentucky,2019,terry_wilson_kentucky,False
 Terry Wilson,SR,QB,10,104,424,4.08,5,10.40,42.40,kentucky,2020,terry_wilson_kentucky,True
@@ -12585,6 +12592,7 @@ Tim Cook,SR,RB,12,30,137,4.57,1,2.50,11.42,oregon_state,2016,tim_cook_oregon_sta
 Tim Crawley,SR,WR,12,17,91,5.35,2,1.42,7.58,san_jose_state,2016,tim_crawley_san_jose_state,False
 Tim Gans,SO,RB,7,26,127,4.88,1,3.71,18.14,new_mexico_state,2022,tim_gans_new_mexico_state,False
 Tim Gans,SO,RB,3,1,5,5.00,0,0.33,1.67,new_mexico_state,2023,tim_gans_new_mexico_state,False
+Tim Gans,JR,RB,1,3,8,2.67,0,3.00,8.00,new_mexico_state,2024,tim_gans_new_mexico_state,False
 Tim Jones,SO,WR,11,3,11,3.67,0,0.27,1.00,southern_mississippi,2018,tim_jones_southern_mississippi,False
 Tim Jones,JR,WR,13,1,-2,-2.00,0,0.08,-0.15,southern_mississippi,2019,tim_jones_southern_mississippi,False
 Tim Jordan,FR,RB,12,11,52,4.73,0,0.92,4.33,tennessee,2017,tim_jordan_tennessee,False
@@ -12798,7 +12806,7 @@ Travon Williams,SO,WR,12,6,28,4.67,0,0.50,2.33,temple,2017,travon_williams_templ
 Travon Williams,JR,WR,10,2,17,8.50,1,0.20,1.70,temple,2018,travon_williams_temple,False
 Tray Eafford,SO,WR,12,4,17,4.25,1,0.33,1.42,troy,2018,tray_eafford_troy,False
 Tray Pettway,SO,WR,12,1,0,0.00,0,0.08,0.00,massachusetts,2021,tray_pettway_massachusetts,False
-Tray Taylor,JR,WR,5,3,28,9.33,0,0.60,5.60,coastal_carolina,2024,tray_taylor_coastal_carolina,False
+Tray Taylor,JR,WR,6,4,27,6.75,0,0.67,4.50,coastal_carolina,2024,tray_taylor_coastal_carolina,False
 Traylon Ray,SO,WR,5,1,2,2.00,0,0.20,0.40,west_virginia,2024,traylon_ray_west_virginia,False
 Trayone Gray,JR,RB,5,7,42,6.00,0,1.40,8.40,miami_florida,2017,trayone_gray_miami_florida,False
 Trayone Gray,SR,RB,13,24,83,3.46,2,1.85,6.38,miami_florida,2018,trayone_gray_miami_florida,False
@@ -12832,7 +12840,7 @@ Tre Siggers,SO,RB,10,152,853,5.61,6,15.20,85.30,north_texas,2019,tre_siggers_nor
 Tre Siggers,JR,RB,8,85,458,5.39,1,10.63,57.25,north_texas,2020,tre_siggers_north_texas,True
 Tre Siggers,SR,RB,11,147,727,4.95,9,13.36,66.09,smu,2021,tre_siggers_smu,False
 Tre Siggers,SR,RB,4,60,229,3.82,4,15.00,57.25,smu,2022,tre_siggers_smu,False
-Tre Stewart,SR,RB,5,65,354,5.45,8,13.00,70.80,jacksonville_state,2024,tre_stewart_jacksonville_state,False
+Tre Stewart,SR,RB,6,86,472,5.49,10,14.33,78.67,jacksonville_state,2024,tre_stewart_jacksonville_state,False
 Tre Tipton,FR,WR,9,11,61,5.55,0,1.22,6.78,pittsburgh,2016,tre_tipton_pittsburgh,False
 Tre Tucker,FR,WR,14,8,93,11.63,0,0.57,6.64,cincinnati,2019,tre_tucker_cincinnati,False
 Tre Tucker,SO,WR,10,4,25,6.25,0,0.40,2.50,cincinnati,2020,tre_tucker_cincinnati,False
@@ -13217,7 +13225,7 @@ Tyler Harrell,SR,WR,8,1,7,7.00,0,0.13,0.88,miami_florida,2023,tyler_harrell_miam
 Tyler Hilinski,SO,QB,8,16,-51,-3.19,2,2.00,-6.38,washington_state,2017,tyler_hilinski_washington_state,False
 Tyler Holzworth,FR,RB,4,6,19,3.17,0,1.50,4.75,penn_state,2022,tyler_holzworth_penn_state,False
 Tyler Holzworth,SO,RB,2,3,4,1.33,0,1.50,2.00,penn_state,2023,tyler_holzworth_penn_state,False
-Tyler Huff,SR,QB,5,63,445,7.06,5,12.60,89.00,jacksonville_state,2024,tyler_huff_jacksonville_state,False
+Tyler Huff,SR,QB,6,76,503,6.62,6,12.67,83.83,jacksonville_state,2024,tyler_huff_jacksonville_state,False
 Tyler Hunt,JR,WR,5,1,1,1.00,1,0.20,0.20,michigan_state,2020,tyler_hunt_michigan_state,False
 Tyler Huntley,FR,QB,6,9,15,1.67,1,1.50,2.50,utah,2016,tyler_huntley_utah,False
 Tyler Huntley,SO,QB,10,168,537,3.20,6,16.80,53.70,utah,2017,tyler_huntley_utah,False
@@ -13261,7 +13269,7 @@ Tyler Nevens,SR,RB,11,167,756,4.53,7,15.18,68.73,san_jose_state,2021,tyler_neven
 Tyler O'Connor,SR,QB,11,63,70,1.11,0,5.73,6.36,michigan_state,2016,tyler_o'connor_michigan_state,False
 Tyler Orlosky,SR,OL,13,1,-2,-2.00,0,0.08,-0.15,west_virginia,2016,tyler_orlosky_west_virginia,False
 Tyler Phommachanh,FR,QB,3,24,84,3.50,2,8.00,28.00,connecticut,2021,tyler_phommachanh_connecticut,False
-Tyler Purdy,SR,RB,5,25,119,4.76,2,5.00,23.80,james_madison,2024,tyler_purdy_james_madison,False
+Tyler Purdy,SR,RB,6,33,155,4.70,2,5.50,25.83,james_madison,2024,tyler_purdy_james_madison,False
 Tyler Queen,FR,QB,2,1,11,11.00,0,0.50,5.50,auburn,2016,tyler_queen_auburn,False
 Tyler Rogers,SR,QB,11,124,333,2.69,4,11.27,30.27,new_mexico_state,2016,tyler_rogers_new_mexico_state,False
 Tyler Rogers,SR,QB,12,76,20,0.26,7,6.33,1.67,new_mexico_state,2017,tyler_rogers_new_mexico_state,False
@@ -13496,7 +13504,7 @@ Warren Wand,SR,RB,13,139,792,5.70,4,10.69,60.92,arkansas_state,2018,warren_wand_
 Wayne Gallman,JR,RB,15,232,1133,4.88,17,15.47,75.53,clemson,2016,wayne_gallman_clemson,False
 Wayne Knight,FR,RB,8,5,-8,-1.60,0,0.63,-1.00,james_madison,2022,wayne_knight_james_madison,False
 Wayne Knight,SO,RB,4,4,23,5.75,0,1.00,5.75,james_madison,2023,wayne_knight_james_madison,False
-Wayne Knight,SO,RB,5,12,86,7.17,0,2.40,17.20,james_madison,2024,wayne_knight_james_madison,False
+Wayne Knight,SO,RB,6,18,129,7.17,0,3.00,21.50,james_madison,2024,wayne_knight_james_madison,False
 Wayne Taulapapa,SO,TB,12,116,473,4.08,12,9.67,39.42,virginia,2019,wayne_taulapapa_virginia,False
 Wayne Taulapapa,JR,TB,10,88,395,4.49,5,8.80,39.50,virginia,2020,wayne_taulapapa_virginia,False
 Wayne Taulapapa,SR,TB,10,62,324,5.23,2,6.20,32.40,virginia,2021,wayne_taulapapa_virginia,True
@@ -13721,7 +13729,7 @@ Xavier Williams,JR,RB,4,27,216,8.00,3,6.75,54.00,kent_state,2020,xavier_williams
 Xavier Williams,SR,RB,13,125,812,6.50,3,9.62,62.46,kent_state,2021,xavier_williams_kent_state,True
 Xavier Williams,FR,QB,6,26,108,4.15,2,4.33,18.00,charlotte,2022,xavier_williams_charlotte,True
 Xavier Williams,SR,RB,12,42,137,3.26,1,3.50,11.42,kent_state,2023,xavier_williams_kent_state,True
-Xavier Williams,SR,S,3,3,4,1.33,0,1.00,1.33,middle_tennessee,2024,xavier_williams_middle_tennessee,False
+Xavier Williams,SR,S,4,3,4,1.33,0,0.75,1.00,middle_tennessee,2024,xavier_williams_middle_tennessee,False
 Xavier Worthy,FR,WR,12,1,7,7.00,0,0.08,0.58,texas,2021,xavier_worthy_texas,False
 Xavier Worthy,SO,WR,13,2,14,7.00,0,0.15,1.08,texas,2022,xavier_worthy_texas,False
 Xavier Worthy,JR,WR,14,4,35,8.75,0,0.29,2.50,texas,2023,xavier_worthy_texas,False

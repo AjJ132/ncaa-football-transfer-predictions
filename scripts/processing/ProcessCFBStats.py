@@ -4,12 +4,14 @@ import pandas as pd
 import numpy as np
 
 class ProcessCFBStats:
-    def __init__(self, data_dir, save_dir, ml_ready_dir):
+    def __init__(self, data_dir, save_dir, processed_dir, roster_dir):
         self.data_dir = data_dir
         self.save_dir = save_dir
-        self.ml_ready_dir = ml_ready_dir
+        self.processed_dir = processed_dir
+        self.roster_dir = roster_dir
         self.seasons = set()
         self.stat_types = set()
+        self.team_records = []
 
     def combine_positional_stats(self):
         # Get list of all files in data_dir
@@ -124,43 +126,43 @@ class ProcessCFBStats:
         # Return the updated DataFrames
         return updated_dfs
     
-    def prepare_quarterbacks_ml_data(self,):
-        #for Qbs we are going to use rushing and passing data
-
-        #load the data from the save directory
+    def prepare_quarterbacks_ml_data(self):
+        # Load the data from the save directory
         passing_data = pd.read_csv(os.path.join(self.save_dir, 'cfb_stats_passing.csv'))
         rushing_data = pd.read_csv(os.path.join(self.save_dir, 'cfb_stats_rushing.csv'))
+        offense_data = pd.read_csv(os.path.join(self.save_dir, 'cfb_stats_total.csv'))
 
-        #in each data frame for the stats add passing_ or rushing_ to the column names
-        #exclude name, yr, position, g, team_name, season, player_id, transfer
+        # Rename columns
+        passing_data = passing_data.rename(columns=lambda x: 'passing_' + x if x not in ['name', 'yr', 'pos', 'g', 'team_name', 'season', 'player_id', 'transfer'] else x)
+        rushing_data = rushing_data.rename(columns=lambda x: 'rushing_' + x if x not in ['name', 'yr', 'pos', 'g', 'team_name', 'season', 'player_id', 'transfer'] else x)
+        offense_data = offense_data.rename(columns=lambda x: 'offense_' + x if x not in ['name', 'yr', 'pos', 'g', 'team_name', 'season', 'player_id', 'transfer'] else x)
 
-        #passing data
-        passing_data = passing_data.rename(columns = lambda x: 'passing_' + x if x not in ['name', 'yr', 'pos', 'g', 'team_name', 'season', 'player_id', 'transfer'] else x)
+        # Join on name, team_name, season
+        qb_data = pd.merge(passing_data, rushing_data, on=['name', 'team_name', 'pos', 'season', 'player_id', 'transfer', 'yr', 'g'], how='outer')
+        qb_data = pd.merge(qb_data, offense_data, on=['name', 'team_name', 'pos', 'season', 'player_id', 'transfer', 'yr', 'g'], how='outer')
 
-        #rushing data
-        rushing_data = rushing_data.rename(columns = lambda x: 'rushing_' + x if x not in ['name', 'yr', 'pos', 'g', 'team_name', 'season', 'player_id', 'transfer'] else x)
-
-        #join on name, team_name, season
-        qb_data = pd.merge(passing_data, rushing_data, on=['name', 'team_name', 'pos', 'season', 'player_id', 'transfer', 'yr', 'g'])
-
-        #filter out where position is not QB
+        # Filter out where position is not QB
         qb_data = qb_data[qb_data['pos'] == 'QB']
 
-        #sort by name and season
+        # Sort by name and season
         qb_data = qb_data.sort_values(['name', 'season'])
 
-        #move transfer, name, season, position, team_name to the front
-        qb_data = qb_data[['team_name'] + [col for col in qb_data.columns if col != 'team_name']]
-        qb_data = qb_data[['pos'] + [col for col in qb_data.columns if col != 'pos']]
-        qb_data = qb_data[['season'] + [col for col in qb_data.columns if col != 'season']]
-        qb_data = qb_data[['name'] + [col for col in qb_data.columns if col != 'name']]
-        qb_data = qb_data[['transfer'] + [col for col in qb_data.columns if col != 'transfer']]
+        # Reorder columns
+        columns_order = ['transfer', 'name', 'season', 'pos', 'team_name'] + [col for col in qb_data.columns if col not in ['transfer', 'name', 'season', 'pos', 'team_name']]
+        qb_data = qb_data[columns_order]
 
-        #save to ml_ready directory
-        qb_data.to_csv(os.path.join(self.ml_ready_dir, 'cfb_qb_stats.csv'), index=False)
+        # Load team records
+        team_records_df = pd.read_csv(os.path.join(self.processed_dir, 'cfb_team_records.csv'))
 
-        #convert years to numeric
-        #fr 1, so 2, jr 3, sr 4
+        # Merge QB data with team records
+        qb_data = pd.merge(qb_data, team_records_df[['team_name', 'season', 'team_wins', 'team_losses']], 
+                        on=['team_name', 'season'], how='left')
+
+        # Rename columns to season_wins and season_losses
+        qb_data = qb_data.rename(columns={'team_wins': 'season_wins', 'team_losses': 'season_losses'})
+
+
+        # Convert years to numeric
         year_mapping = {'FR': 1, 'SO': 2, 'JR': 3, 'SR': 4}
         qb_data['yr'] = qb_data['yr'].map(year_mapping)
         
@@ -168,13 +170,62 @@ class ProcessCFBStats:
         qb_data['yr'] = pd.to_numeric(qb_data['yr'], errors='coerce')
         
         # Fill NaN values with a default value (e.g., 0 or the mean of the column)
-        qb_data['yr'] = qb_data['yr'].fillna(0)  # or use qb_data['yr'].fillna(qb_data['yr'].mean())
+        qb_data['yr'] = qb_data['yr'].fillna(0)
         
         # Now convert to integer
         qb_data['yr'] = qb_data['yr'].astype(int)
 
+        # Save to ml_ready directory
+        qb_data.to_csv(os.path.join(self.processed_dir, 'cfb_qb_stats.csv'), index=False)
+
         return qb_data
 
+    def generate_team_loss_win_records(self,):
+        #load all files from roster directory with cfb_roster in the name
+        files = [f for f in os.listdir(self.roster_dir) if 'cfb_roster' in f]
+
+        #iterate over each file
+        for file in files:
+            #load the file
+            with open(os.path.join(self.roster_dir, file), 'r') as f:
+                data = json.load(f)
+
+            #get season from file name 'cfb_roster_{season}.json'
+            season = file.split('_')[2].replace('.json', '')
+
+            #iterate over each team
+            for team in data:
+                #get the team name
+                team_name = team['team_name']
+
+                #get schedule
+                schedule = team['schedule']
+
+                #loop over each item in schedule, if result contians W or L add to team_records
+                #if result doesnt contain W or L, then skip
+
+                team_losses = 0
+                team_wins = 0
+                
+                for game in schedule:
+                    #check if the result contains W or L
+                    if 'W' in game['result'] or 'L' in game['result']:
+                        if 'L' in game['result']:
+                            team_losses += 1
+                        else:
+                            team_wins += 1
+
+                #append to team_records
+                self.team_records.append({
+                    'team_name': team_name,
+                    'season': season,
+                    'team_wins': team_wins,
+                    'team_losses': team_losses
+                })
+
+        #save team_records to a csv
+        team_records_df = pd.DataFrame(self.team_records)
+        team_records_df.to_csv(os.path.join(self.processed_dir, 'cfb_team_records.csv'), index=False)
 
     def process_stats(self):
         # Combine positional stats into separate DataFrames and save them
@@ -214,9 +265,11 @@ class ProcessCFBStats:
             df.to_csv(file_path, index=False)
             print(f"Identified transfers for {stat_types_list[i]} stats and saved to {file_path}")
 
+        # Generate team loss and win records
+        self.generate_team_loss_win_records()
+
         # Prepare data for quarterbacks
         qb_data = self.prepare_quarterbacks_ml_data()
 
-        #print columns in qb_data
-        print(qb_data.columns)
+        print("Processing complete.")
 

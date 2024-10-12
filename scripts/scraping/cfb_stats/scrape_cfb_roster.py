@@ -86,9 +86,76 @@ class ScrapeCFBRoster:
     def process_team(self, args):
         team, season = args
         return self.handle_get_team_stats_and_roster(team, season)
+
+    def handle_get_team_schedule(self, url):
+        try:
+            # Get index page, then parse schedule
+            page = self.download_page(url)
+    
+            if not page:
+                logging.error(f"Failed to download schedule for {url}")
+                return []
+    
+            bs = BeautifulSoup(page.content, 'html.parser')
+    
+            # Get table with class 'team-schedule'
+            schedule_table = bs.find('table', class_='team-schedule')
+    
+            # In tbody skip first row, then get all rows
+            # Sometimes it has a tbody sometimes it doesn't
+            schedule_rows = schedule_table.find('tbody').find_all('tr') if schedule_table.find('tbody') else schedule_table.find_all('tr')
+    
+            # Ignore the last row
+            schedule_rows = schedule_rows[:-1]
+    
+            schedule = []
+            for row in schedule_rows:
+                columns = row.find_all('td')
+                if not columns:
+                    continue
+    
+                game = {}
+                try:
+                    game['date'] = columns[0].text
+                except IndexError:
+                    game['date'] = ''
+                try:
+                    game['opponent'] = columns[1].text
+                except IndexError:
+                    game['opponent'] = ''
+                try:
+                    game['result'] = columns[2].text
+                except IndexError:
+                    game['result'] = ''
+                try:
+                    game['game_time'] = columns[3].text
+                except IndexError:
+                    game['game_time'] = ''
+                try:
+                    game['attendance'] = columns[4].text
+                except IndexError:
+                    game['attendance'] = ''
+    
+                schedule.append(game)
+    
+            return schedule
+    
+        except Exception as e:
+            logging.error(f"An error occurred while processing the schedule for {url}: {e}")
+            return []
      
     def handle_get_team_stats_and_roster(self, team, season):
         page_url = team['page_url']
+
+        # Get Team schedule
+        team_schedule = self.handle_get_team_schedule(page_url)
+
+        if team_schedule is None:
+            #append empty schedule
+            team['schedule'] = []
+        else:
+            team['schedule'] = team_schedule
+
         roster_url = page_url.replace('index.html', 'roster.html')
 
         page = self.download_page(roster_url)
